@@ -1,0 +1,218 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Autoresolution plugin Official Greek translation\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-11 11:18+0100\n"
+"PO-Revision-Date: 2016-05-30 20:17+0200\n"
+"Last-Translator: MCelliot_g <mcelliot_g@hotmail.com>\n"
+"Language-Team: MCelliot_g <mcelliot_g@hotmail.com>\n"
+"Language: el_GR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 1.7.7\n"
+
+msgid "Alternative resolution when native not supported"
+msgstr ""
+
+msgid "Ask before changing videomode"
+msgstr ""
+
+msgid "Auto frame rate (refresh need 'multi/auto')"
+msgstr "Αυτόματος ρυθμός καρέ (η ανανέωση απαιτεί το 'πολλαπλό/αυτόματο')"
+
+msgid "Autoresolution"
+msgstr "Αυτόματη Ανάλυση"
+
+#, python-format
+msgid ""
+"Autoresolution Plugin Testmode:\n"
+"Is %s OK?"
+msgstr ""
+"Κατάσταση δοκιμής του Πρόσθετου Αυτόματης Ανάλυσης:\n"
+"Είναι το %s OK?"
+
+msgid "Autoresolution Switch"
+msgstr "Διακόπτης Αυτόματης Ανάλυσης"
+
+msgid "Autoresolution is not working in Scart/DVI-PC Mode"
+msgstr "Η Αυτόματη Ανάλυση δεν είναι διαθέσιμη σε λειτουργία Scart/DVI-PC"
+
+msgid "Autoresolution videomode setup"
+msgstr "Ρυθμίσεις λειτουργίας εικόνας της Αυτόματης Ανάλυσης"
+
+msgid "Cancel"
+msgstr "Ακύρωση"
+
+#, python-format
+msgid ""
+"Changing framerate for current service?\n"
+"Current framerate: %s\n"
+"New framerate: %s\n"
+msgstr ""
+
+msgid "Deinterlacer mode for interlaced content"
+msgstr "Λειτουργία αποπολυπλεξίας για πεπλεγμένο περιεχόμενο"
+
+msgid "Deinterlacer mode for progressive content"
+msgstr "Λειτουργία αποπολυπλεξίας για προοδευτικό περιεχόμενο"
+
+msgid "Delay x seconds after service started"
+msgstr "Καθυστέρηση x δευτερόλεπτα αφού ξεκινήσει η υπηρεσία"
+
+msgid "Enable 1080p24 Mode"
+msgstr "Ενεργοποίηση Λειτουργίας 1080p24"
+
+msgid "Enable 1080p25 Mode"
+msgstr "Ενεργοποίηση Λειτουργίας 1080p25"
+
+msgid "Enable 1080p30 Mode"
+msgstr "Ενεργοποίηση Λειτουργίας 1080p30"
+
+#, fuzzy
+msgid "Enable 2160p24 Mode"
+msgstr "Ενεργοποίηση Λειτουργίας 720p24"
+
+#, fuzzy
+msgid "Enable 2160p25 Mode"
+msgstr "Ενεργοποίηση Λειτουργίας 1080p25"
+
+#, fuzzy
+msgid "Enable 2160p30 Mode"
+msgstr "Ενεργοποίηση Λειτουργίας 1080p30"
+
+msgid "Enable 720p24 Mode"
+msgstr "Ενεργοποίηση Λειτουργίας 720p24"
+
+#, fuzzy
+msgid "Enable 720p50 Mode"
+msgstr "Ενεργοποίηση Λειτουργίας 720p24"
+
+msgid "Enable Autoresolution"
+msgstr "Ενεργοποίηση Αυτόματης Ανάλυσης"
+
+msgid "Exit"
+msgstr ""
+
+#, fuzzy
+msgid "FHD 50/60HZ Progressive Mode"
+msgstr "Λειτουργία Προοδευτικού SD 30/60Hz"
+
+msgid "Force set progressive for stream/video content"
+msgstr ""
+
+msgid "HD Interlace Mode"
+msgstr "Λειτουργία περιπλεγμένου HD"
+
+msgid "HD Progressive Mode"
+msgstr "Λειτουργία προοδευτικού HD"
+
+msgid "Lock timeout"
+msgstr "Χρόνος λήξης κλειδώματος"
+
+msgid "Manual"
+msgstr "Χειροκίνητα"
+
+#, fuzzy
+msgid "Manual resolution"
+msgstr "Ενεργοποίηση Αυτόματης Ανάλυσης"
+
+#, fuzzy
+msgid "Manual resolution is not working in Scart/DVI-PC mode!"
+msgstr "Η Αυτόματη Ανάλυση δεν είναι διαθέσιμη σε λειτουργία Scart/DVI-PC"
+
+msgid "Message timeout"
+msgstr ""
+
+msgid "Mode"
+msgstr "Λειτουργία"
+
+msgid "OK"
+msgstr "ΟΚ"
+
+msgid "Please select a resolution..."
+msgstr ""
+
+msgid "Refresh Rate"
+msgstr "Ρυθμός Ανανέωσης"
+
+msgid "Return back without confirmation after 10 sec."
+msgstr ""
+
+msgid "Running in testmode"
+msgstr "Λειτουργία δοκιμής"
+
+msgid "SD 24HZ Progressive mode"
+msgstr "Λειτουργία Προοδευτικού SD 24Hz"
+
+msgid "SD 25/50HZ Interlace Mode"
+msgstr "Λειτουργία Περιπλεγμένου SD 25/50Hz"
+
+msgid "SD 25/50HZ Progressive Mode"
+msgstr "Λειτουργία Προοδευτικού SD 25/50Hz"
+
+msgid "SD 30/60HZ Interlace Mode"
+msgstr "Λειτουργία Περιπλεγμένου SD 30/60Hz"
+
+msgid "SD 30/60HZ Progressive Mode"
+msgstr "Λειτουργία Προοδευτικού SD 30/60Hz"
+
+msgid "Separate colorimetry for HDR (set 'auto' HDMI Colorimetry)"
+msgstr ""
+
+msgid "Show 'Manual resolution' in extensions menu"
+msgstr ""
+
+msgid "Show info screen"
+msgstr "Εμφάνιση οθόνης πληροφοριών"
+
+msgid "Smart HDR type (set 'auto' HDMI HDR type)"
+msgstr ""
+
+msgid "This resolution is OK?"
+msgstr ""
+
+#, fuzzy
+msgid "UHD Interlace Mode"
+msgstr "Λειτουργία περιπλεγμένου HD"
+
+#, fuzzy
+msgid "UHD Progressive Mode"
+msgstr "Λειτουργία προοδευτικού HD"
+
+msgid "Use 60HZ instead 30HZ"
+msgstr ""
+
+#, fuzzy
+msgid "Video: "
+msgstr "Λειτουργία βίντεο: %s"
+
+#, python-format
+msgid "Videocontent: %sx%s%s %sHZ"
+msgstr "Περιεχόμενο βίντεο: %sx%s%s %sHZ"
+
+#, python-format
+msgid "Videomode: %s"
+msgstr "Λειτουργία βίντεο: %s"
+
+#, python-format
+msgid "Videomode: %s %s %s"
+msgstr "Λειτουργία βίντεο: %s %s %s"
+
+msgid "default"
+msgstr "προεπιλογή"
+
+msgid "no"
+msgstr ""
+
+msgid "second"
+msgstr "δευτερόλεπτο"
+
+msgid "seconds"
+msgstr "δευτερόλεπτα"

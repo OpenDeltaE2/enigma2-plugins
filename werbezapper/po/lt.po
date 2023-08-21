@@ -1,0 +1,228 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-11 12:34+0200\n"
+"PO-Revision-Date: 2016-12-29 15:12+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "\"Werbezapper\" quick button"
+msgstr "WerbeZapper greitasis mygtukas"
+
+#, python-format
+msgid "%d min"
+msgstr "%d min."
+
+#, python-format
+msgid "%s\n"
+msgstr ""
+
+#, fuzzy, python-format
+msgid "- %d:%02d min"
+msgstr "%d min."
+
+msgid "Automatically zaps back to current service after given Time"
+msgstr "Po nurodyto laiko automatiškai įjungs atgal į dabartinį kanalą"
+
+#, python-format
+msgid ""
+"Button Info/EPG\n"
+"Set time begin next event: %d min"
+msgstr ""
+"Mygtukas 'INFO / EPG'\n"
+"Nustatyti sekančio įvykio pradžios laiką: %d min."
+
+msgid "Cancel"
+msgstr "Atšaukti"
+
+#, python-format
+msgid "Channel: %s"
+msgstr "Kanalas: %s"
+
+msgid "Custom"
+msgstr "Pasirinktinis"
+
+msgid "Error"
+msgstr "klaida"
+
+msgid "GREEN"
+msgstr "'ŽALIAS'"
+
+msgid "HELP"
+msgstr "'Help'"
+
+msgid "How many minutes to wait until zapping back?"
+msgstr "Kiek minučių laukti, prieš perjungiant atgal?"
+
+msgid "Indicator mode"
+msgstr "Indikatoriaus režimas"
+
+msgid "Monitoring duration for service if not EPG"
+msgstr "Kanalo kontrolės trukmė, jei nėra EPG"
+
+#, python-format
+msgid "Monitoring: %s (%d:%02d Min)"
+msgstr "Kontrolė: %s (%d:%02d Min)"
+
+#, python-format
+msgid "Monitoring: for service is not EPG (%d:%02d Min)"
+msgstr "Kontrolė: kanalo, kuris neturi EPG (%d:%02d Min)"
+
+msgid "NONE"
+msgstr "NIEKO"
+
+msgid "Open setup"
+msgstr "Averti sąranką"
+
+msgid "RADIO"
+msgstr "'RADIO'"
+
+msgid "Rezap"
+msgstr "Perjungti vėl"
+
+msgid "SEARCH"
+msgstr "'PAIEŠKA'"
+
+msgid "Save"
+msgstr "Išsaugoti"
+
+msgid "Service is not EPG"
+msgstr "Kanalas neturi EPG"
+
+msgid "Set zap time"
+msgstr "Nustatykite perjungimo laiką"
+
+msgid "Show \"Start / Stop monitoring\" in extensions menu"
+msgstr "Rodyti 'Pradėti/nutraukti kontrolę' meniu tarp plėtinių"
+
+msgid "Show indicator zap time in window"
+msgstr "Ekrane rodyti perjungimo laiko indikatorių"
+
+msgid "Show plugin in channel selection context menu"
+msgstr "Rodyti įskiepį kanalų pasirinkimo kontekstiniame meniu"
+
+msgid "Slider step size (1 - 20 mins)"
+msgstr "Slankiklio žingsnio dydis (1-20 min.)"
+
+msgid "Start / Stop monitoring instantly"
+msgstr "Pradėti/nutraukti kontrolę nedelsiant"
+
+msgid "Start monitoring"
+msgstr "Pradėti kontrolę"
+
+msgid "Stop monitoring"
+msgstr "Nutraukti kontrolę"
+
+msgid "Stop timer"
+msgstr "Stabdyti laikmatį"
+
+msgid "TEXT"
+msgstr "'TEXT'"
+
+msgid "TIMER"
+msgstr "'LAIKMATIS'"
+
+msgid "TV"
+msgstr "'TV'"
+
+msgid "Wakeup receiver from standby for zap timer"
+msgstr "Prižadinti, kad perjungti pagal laikmatį"
+
+msgid "WerbeZapper"
+msgstr "WerbeZapper"
+
+#, python-format
+msgid ""
+"WerbeZapper\n"
+"Monitoring ends\n"
+"%s"
+msgstr ""
+"WerbeZapper\n"
+"kontrolės pabaiga\n"
+"%s"
+
+msgid "WerbeZapper Setup"
+msgstr "WerbeZapper sąranka"
+
+#, python-format
+msgid ""
+"WerbeZapper...\n"
+"Monitoring started\n"
+"%s"
+msgstr ""
+"WerbeZapper\n"
+"kontrolės pradžia\n"
+"%s"
+
+#, python-format
+msgid ""
+"WerbeZapper...\n"
+"Monitoring started for service is not EPG.\n"
+"Duration %d Min."
+msgstr ""
+"WerbeZapper\n"
+"Kontrolės kanalo, kuris neturi EPG, pradžia.\n"
+"Trukmė %d min."
+
+msgid "Werbezapper"
+msgstr "WerbeZapper"
+
+msgid "Werbezapper Start / Stop monitoring"
+msgstr "Pradėti/nutraukti WerbeZapper kontrolę"
+
+msgid "When zap to service?"
+msgstr "Kada įjungti kanalą?"
+
+msgid "X position"
+msgstr "X padėtis"
+
+msgid "Y position"
+msgstr "Y padėtis"
+
+msgid "YELLOW"
+msgstr "'GELTONAS'"
+
+msgid "Z position (priority of srceen)"
+msgstr "Z  padėtis (ekrano pirmenybė)"
+
+#, python-format
+msgid "Zapping back %s in %d Min"
+msgstr "Perjungimas atgal į %s po %d min."
+
+#, python-format
+msgid "Zapping to %s"
+msgstr "Perjungimas į %s"
+
+#, python-format
+msgid "Zapping to service in %d:%02d Min"
+msgstr "Perjungimas į kanalą po %d:%02d min."
+
+msgid "add zap timer for service"
+msgstr "pridėti perjungimo laikmatį kanalui"
+
+msgid "minut"
+msgstr "min."
+
+msgid "minute"
+msgstr "min."
+
+msgid "minutes"
+msgstr "min."
+
+msgid "service / time"
+msgstr "kanalas / trukmė"
+
+msgid "time"
+msgstr "trukmė"

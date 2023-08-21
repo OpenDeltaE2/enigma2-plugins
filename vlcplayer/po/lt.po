@@ -1,0 +1,284 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: VlcPlayer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-11 12:34+0200\n"
+"PO-Revision-Date: 2016-12-28 18:03+0200\n"
+"Last-Translator: \n"
+"Language-Team: Vytenis P. <vyteniui@gmail.com>\n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "1 minute"
+msgstr ""
+
+msgid "10 minutes"
+msgstr ""
+
+msgid "15 minutes"
+msgstr ""
+
+msgid "20 minutes"
+msgstr ""
+
+msgid "3 minutes"
+msgstr ""
+
+msgid "30 minutes"
+msgstr ""
+
+msgid "5 minutes"
+msgstr ""
+
+msgid "A video streaming solution based on VLC"
+msgstr "Vaizdo transliacija, VLC pagrindu"
+
+#, fuzzy
+msgid "Audio"
+msgstr "Garso kodavimas"
+
+msgid "Audio Bitrate"
+msgstr "Garso bitų dažnis"
+
+msgid "Audio Channels"
+msgstr "Garso kanalai"
+
+msgid "Audio Codec"
+msgstr "Garso kodavimas"
+
+msgid "Audio Samplerate"
+msgstr "Garso elementų dažnis"
+
+#, fuzzy
+msgid "Cache Directory"
+msgstr "Filmų katalogas"
+
+msgid "Cancel"
+msgstr "Atšaukti"
+
+msgid "Choice of minutes to jump"
+msgstr ""
+
+msgid "Choose an action:"
+msgstr ""
+
+msgid "DVD Device (leave empty for default)"
+msgstr "DVD įrenginys (tuščia = numatytasis)"
+
+msgid "Direct play"
+msgstr ""
+
+#, fuzzy
+msgid "Edit VLC Server"
+msgstr "redaguoti serverį"
+
+msgid "Enter VLC-Server as FQDN or IP-Address"
+msgstr "Įveskite VLC serverį, kaip FQDN arba IP adresą"
+
+msgid "Enter subtitles as Track or Language"
+msgstr ""
+
+#, python-format
+msgid ""
+"Error loading filelist into server %(server)s:\n"
+"%(error)s"
+msgstr ""
+"Klaida, įkeliant failų sąrašą į serverį %(server)s:\n"
+"%(error)s"
+
+#, python-format
+msgid ""
+"Error loading playlist %(media)s into server %(server)s:\n"
+"%(error)s"
+msgstr ""
+"Klaida, įkeliant grojaraštį %(media)s į serverį %(server)s:\n"
+"%(error)s"
+
+#, python-format
+msgid ""
+"Error loading playlist into server %(server)s:\n"
+"%(error)s"
+msgstr ""
+"Klaida, įkeliant grojaraštį į serverį %(server)s:\n"
+"%(error)s"
+
+#, python-format
+msgid ""
+"Error updating filelist from server %(server)s:\n"
+"%(error)s"
+msgstr ""
+"Klaida, atnaujinant failų sąrašą iš serverio %(server)s:\n"
+"%(error)s"
+
+#, python-format
+msgid ""
+"Error with VLC server:\n"
+"%s"
+msgstr ""
+"VLC serverio klaida:\n"
+"%s"
+
+msgid "FQDN"
+msgstr ""
+
+msgid "Filelist"
+msgstr "Failų sąrašas"
+
+msgid "HTTP Port"
+msgstr "HTTP prievadas"
+
+msgid "IP-Address"
+msgstr ""
+
+msgid ""
+"Latest compatible version VLC 2.0.7\n"
+"Setup VLC for PC:\n"
+"Tools -> Preferences -> All -> Interface -> Main Interface -> Select Web\n"
+"Find file c:/Program Files/VideoLAN/VLC/Lua/http/.hosts and insert your box ip (without #).\n"
+"Add shortcut to the startup of the background start VLC 'C:\\Program Files\\VideoLAN\\VLC\\vlc.exe --intf telnet --extraintf http'"
+msgstr ""
+
+msgid "List of known profiles. Note: key info - help"
+msgstr ""
+
+msgid "Movie Directory"
+msgstr "Filmų katalogas"
+
+msgid "No more files in this directory"
+msgstr "Šiame kataloge daugiau failų nėra"
+
+#, python-format
+msgid ""
+"No ping from Server:\n"
+"%s\n"
+"%s"
+msgstr ""
+
+msgid "No previous file in this directory"
+msgstr "Ankstesnio failo šiame kataloge nėra"
+
+msgid ""
+"No valid Enigma-Service to play a VLC-Stream\n"
+"Check your installation and try again!"
+msgstr ""
+"Nėra tinkamos Enigma tarnybos VLC srautui priimti.\n"
+"Tikrinkite įdiegimą ir bandykite dar kartą!"
+
+msgid "OK"
+msgstr "Gerai"
+
+#, python-format
+msgid "Overscan Correction [in %(percentsign)s of Video width]"
+msgstr "Perskenavimo korekcija [%(percentsign)s nuo vaizdo pločio]"
+
+msgid "Ping IP-Address when open Server"
+msgstr ""
+
+msgid "Playlist"
+msgstr "Grojaraštis"
+
+msgid "Really delete this Server?"
+msgstr "Tikrai pašalinti šį serverį?"
+
+#, fuzzy
+msgid "Reset default"
+msgstr "nustatyti numatytuoju"
+
+msgid "Save as .ts and play"
+msgstr ""
+
+#, fuzzy
+msgid "Select VLC-Server profile"
+msgstr "Žinomų VLC serverio profilių sąrašas"
+
+msgid "Select method?"
+msgstr ""
+
+msgid "Server Address"
+msgstr "Serverio adresas"
+
+msgid "Server Profile Name"
+msgstr "Serverio profilio vardas"
+
+msgid "Serverlist"
+msgstr "Serverių sąrašas"
+
+#, fuzzy
+msgid "Set as default"
+msgstr "nustatyti numatytuoju"
+
+msgid "Subtitle overlay"
+msgstr "Subtitrų perdangos"
+
+#, fuzzy
+msgid "Subtitles"
+msgstr "Subtitrų perdangos"
+
+msgid "Transcode MPEG/DVD Audio"
+msgstr "Perkoduoti MPEG/DVD garsą"
+
+msgid "Transcode MPEG/DVD Video"
+msgstr "Perkoduoti MPEG/DVD vaizdą"
+
+msgid "Use saving to Cache Directory"
+msgstr ""
+
+msgid "VLC < 2.x"
+msgstr ""
+
+msgid "VLC Media List"
+msgstr ""
+
+msgid "VLC Video Player"
+msgstr ""
+
+msgid "Video Bitrate"
+msgstr "Vaizdo bitų dažnis"
+
+msgid "Video Codec"
+msgstr "Vaizdo kodavimas"
+
+msgid "Video Norm"
+msgstr "Vaizdo normalizacija"
+
+msgid "Yellow subtitles"
+msgstr ""
+
+msgid "add server"
+msgstr "pridėti serverį"
+
+msgid "delete server"
+msgstr "šalinti serverį"
+
+msgid "edit server"
+msgstr "redaguoti serverį"
+
+msgid "filter off"
+msgstr "filtras išjungtas"
+
+msgid "filter on"
+msgstr "filtras iįungtas"
+
+msgid "languages"
+msgstr ""
+
+msgid "play DVD"
+msgstr "leisti DVD"
+
+msgid "refresh"
+msgstr "atnaujinti"
+
+msgid "set default"
+msgstr "nustatyti numatytuoju"
+
+msgid "tracks"
+msgstr ""

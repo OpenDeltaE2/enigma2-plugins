@@ -1,0 +1,58 @@
+# German translations for enigma2-plugins package.
+# Copyright (C) 2009 THE enigma2-plugins'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the enigma2-plugins package.
+# Automatically generated, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma2-plugins setpasswd\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-11 10:58+0200\n"
+"PO-Revision-Date: 2009-09-27 18:12+0100\n"
+"Last-Translator: maja <jovanovic@gmx.ch>\n"
+"Language-Team: veselin & majevica CRNABERZA <jovanovic@gmx.ch>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Serbian\n"
+"X-Poedit-Country: SERBIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+msgid "Change Root Password"
+msgstr "Promeni baznu lozinku"
+
+msgid "Change or reset the root password of your box"
+msgstr "Promeni ili resetuj baznu lozinku svog boksa"
+
+#, fuzzy
+msgid "Delete Password"
+msgstr "Postavi lozinku"
+
+msgid "Enter new Password"
+msgstr "Unesi novu lozinku"
+
+msgid "Enter your password here:"
+msgstr "Unesi svoju lozinku ovde:"
+
+msgid "Password deleted sucessfully for root user"
+msgstr ""
+
+msgid "Set Password"
+msgstr "Postavi lozinku"
+
+msgid "Sucessfully changed password for root user to: "
+msgstr "Uspešno promenjena lozinka za baznog korisnika u: "
+
+msgid "Unable to change/reset password for root user"
+msgstr "Nemoguće promeniti/resetovati lozinku za baznog korisnika"
+
+#, fuzzy
+msgid "Unable to delete password for root user"
+msgstr "Nemoguće promeniti/resetovati lozinku za baznog korisnika"
+
+msgid "new Random"
+msgstr "Novi slučajni"
+
+msgid "virt. Keyboard"
+msgstr "virt. tastatura"

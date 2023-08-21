@@ -1,0 +1,49 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-11 11:19+0100\n"
+"PO-Revision-Date: 2021-12-03 10:50+0100\n"
+"Last-Translator: IMS <ims@openpli.org>\n"
+"Language-Team: PLi <ims21@users.sourceforge.net>\n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+"X-Generator: Poedit 3.0\n"
+
+msgid "Bitrate"
+msgstr "Datový tok"
+
+msgid "Frame rate"
+msgstr "Snímková frekvence"
+
+msgid "It seems your receiver is not supported!"
+msgstr "Zdá se, že Váš přijímač není podporovaný!"
+
+msgid "Not found file '/etc/enigma2/streamproxy.conf' !"
+msgstr "Soubor '/etc/enigma2/streamproxy.conf' nebyl nalezen!"
+
+msgid "Quit"
+msgstr "Zavřít"
+
+msgid "Set"
+msgstr "Nastavit"
+
+msgid "Set up default transcoding parameters"
+msgstr "Nastavení předvolených parametrů pro transkódování"
+
+msgid "Transcoding Setup"
+msgstr "Nastavení transkódování"
+
+msgid "Video codec"
+msgstr "Kodek videa"
+
+msgid "Video size"
+msgstr "Velikost obrazu"

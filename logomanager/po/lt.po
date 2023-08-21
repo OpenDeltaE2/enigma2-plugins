@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LogoManager-PLi\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-11 12:34+0200\n"
+"PO-Revision-Date: 2016-06-23 17:54+0300\n"
+"Last-Translator: Vytenis P.\n"
+"Language-Team: Vytenis P. <vyteniui@gmail.com>\n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.8\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "Add default bootlogo to folder logos"
+msgstr "Įkelti numatytąjį įkrovos logo į logotipų katalogą"
+
+msgid "Add default radio to folder logos"
+msgstr "Įkelti numatytąjį radijo logo į logotipų katalogą"
+
+msgid "CF Drive"
+msgstr "CF laikmena"
+
+msgid "Cancel"
+msgstr "Atšaukti"
+
+msgid "Directory to scan for logos"
+msgstr "Katalogas logo paieškai"
+
+msgid "Disable backdrop"
+msgstr "Išjungti foną"
+
+msgid "Disable reboot"
+msgstr "Uždrausti paleidimą iš naujo"
+
+msgid "Disable switch off"
+msgstr "Uždrausti išjungimą"
+
+msgid "Harddisk"
+msgstr "HDD"
+
+msgid "Install selected logo as..."
+msgstr "Įdiegti pasirinktą logotipą, kaip..."
+
+msgid "Logo Manager"
+msgstr "Logotipų valdymas"
+
+msgid "Logo manager setup"
+msgstr "Logotipų valdymo sąranka"
+
+msgid "None"
+msgstr "Nieko"
+
+#, python-format
+msgid "Not found directory '%s'!"
+msgstr "Katalogo '%s' nerasta!"
+
+msgid "OK"
+msgstr " Gerai"
+
+msgid "Open configuration"
+msgstr "Atverti konfigūraciją"
+
+msgid "Please select a option:"
+msgstr "Pasirinkite variantą:"
+
+#, python-format
+msgid "Really remove current logo of %s?"
+msgstr "Ar tikrai norite pašalinti dabartinį %s logotipą?"
+
+msgid "Remove current logo"
+msgstr "Pašalinti esamą logotipą"
+
+msgid "Reset all logos to default"
+msgstr "Atkurti numatytuosius logotipus"
+
+msgid "Reset bootlogo to default"
+msgstr "Atkurti įkrovos logotipą"
+
+msgid "Reset radio to default"
+msgstr "Atkurti radijo logotipą"
+
+msgid "Select target for logo:"
+msgstr "Pasirinkite tikslą logotipui:"
+
+msgid "Show active logos"
+msgstr "Rodyti aktyvius logotipus"
+
+msgid "Show available logos"
+msgstr "Rodyti galimus logotipus"
+
+msgid "USB Drive"
+msgstr "USB laikmena"
+
+msgid "backdrop"
+msgstr "fonas"
+
+msgid "bootlogo"
+msgstr "įkrovos logotipas"
+
+msgid "manage logos to display at boottime"
+msgstr "enigma2 atvaizduojamų logotipų valdymas"
+
+msgid "radio"
+msgstr "radijas"
+
+msgid "reboot"
+msgstr "paleisti iš naujo"
+
+msgid "switch off"
+msgstr "išjungti"
+
+msgid "view bootlogo/mvi"
+msgstr "peržiūrėti įkrovos logo/mvi"

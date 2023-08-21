@@ -1,0 +1,45 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Transcoding Setup\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-11 11:19+0100\n"
+"PO-Revision-Date: 2015-11-28 00:00+0200\n"
+"Last-Translator: Dimitrij <dima-73@inbox.lv>\n"
+"Language-Team: Dimitrij PLi\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Russian\n"
+"X-Poedit-Country: RUSSIA\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+msgid "Bitrate"
+msgstr "Битрейт"
+
+msgid "Frame rate"
+msgstr "Частота кадров"
+
+msgid "It seems your receiver is not supported!"
+msgstr "Кажется, Ваш ресивер не поддерживается!"
+
+msgid "Not found file '/etc/enigma2/streamproxy.conf' !"
+msgstr "Не найден файл'/etc/enigma2/streamproxy.conf'!"
+
+msgid "Quit"
+msgstr "Отмена"
+
+msgid "Set"
+msgstr "Установка"
+
+msgid "Set up default transcoding parameters"
+msgstr "Установка дефолтных параметров транскодирования"
+
+msgid "Transcoding Setup"
+msgstr "Настройки транскодирования"
+
+msgid "Video codec"
+msgstr "Видео кодек"
+
+msgid "Video size"
+msgstr "Видео разрешение"

@@ -1,0 +1,6 @@
+Package: enigma2-plugin-extensions-remoteTimer
+Version: 20160203
+Description: add remote timer for recievers on enigma2
+Maintainer: OpenPLi team <forum@openpli.org>
+Homepage: http://www.openpli.org
+Depends: python-twisted-web

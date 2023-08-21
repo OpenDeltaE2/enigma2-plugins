@@ -1,0 +1,337 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: FanControl2\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-11 10:58+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Magnus Nilsson <mag_nilsson@hotmail.com>\n"
+"Language-Team: \n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Swedish\n"
+"X-Poedit-Country: SWEDEN\n"
+
+#, python-format
+msgid "%s   %02d C"
+msgstr "%s   %02d C"
+
+msgid "."
+msgstr "."
+
+msgid "3Pin"
+msgstr "3Pin"
+
+msgid "4Pin"
+msgstr "4Pin"
+
+msgid "4Pin (PID)"
+msgstr ""
+
+msgid "Action in case of Fan failure"
+msgstr "Händelse vid fläktfel"
+
+msgid "Auto-Delete Data older than (Days)"
+msgstr "Radera automatiskt data äldre än (Dagar)"
+
+#, python-format
+msgid "Auto-Delete older %s Days"
+msgstr "Automatisk radering äldre än %s dagar"
+
+msgid "Box Shutdown"
+msgstr "Mottagaren stängs av"
+
+msgid "Box has no fancontrol hardware -> FC2 deactivated"
+msgstr "Mottagaren har ingen hårdvara för fläktkontroll -> FC2 avaktiverad"
+
+msgid "Box shutdown at Temperature (C)"
+msgstr "Mottagaren stängs av vid denna temperatur (C)"
+
+msgid "Cancel"
+msgstr "Avbryt"
+
+msgid "Check"
+msgstr "Kontrollera"
+
+msgid "Choose path"
+msgstr "Välj sökväg"
+
+msgid "Control disabled"
+msgstr "Kontroll avaktiverad"
+
+#, python-format
+msgid "Current rpm  %4d"
+msgstr "Nuvarande rpm  %4d"
+
+#, python-format
+msgid "Current value: %s"
+msgstr "Aktuellt värde: %s"
+
+msgid "Delete"
+msgstr "Ta bort"
+
+msgid "Delete older 48h"
+msgstr "Ta bort äldre än 48h"
+
+#, python-format
+msgid "Disk free : %d MByte"
+msgstr "Fritt diskutrymme : %dMbyte"
+
+msgid "Download"
+msgstr "Nerladdning"
+
+msgid "Enable Data Logging"
+msgstr "Aktivera dataloggning"
+
+msgid "Enable Event Logging"
+msgstr "Aktivera händelse loggning"
+
+msgid "End temperature C"
+msgstr "Slut temperatur C"
+
+msgid "Extended Control Range"
+msgstr "Utökat kontrollområde"
+
+#, fuzzy
+msgid "Fan Control"
+msgstr "Avaktivera DMM-fläktkontroll"
+
+msgid "Fan Control 2"
+msgstr ""
+
+msgid "Fan Control 2 - Monitor"
+msgstr ""
+
+msgid "Fan Control 2 - Setup"
+msgstr ""
+
+msgid "Fan Control 2 - Test"
+msgstr ""
+
+msgid "Fan is not working!"
+msgstr "Fläkten fungerar inte!"
+
+#, fuzzy
+msgid "Fan off in Idle Mode"
+msgstr "Fläkt av i viloläge"
+
+msgid "Fan type"
+msgstr "Fläkttyp"
+
+msgid "FanControl2 emergency, Box Shutdown now?"
+msgstr "FanControl2 nödsituation, mottagaren stängs av nu?"
+
+#, python-format
+msgid "File %s does not exists"
+msgstr "Fil %s existerar inte"
+
+#, python-format
+msgid "Filesize : %d %sByte"
+msgstr "Filstorlek : %d %sbyte"
+
+msgid ""
+"GUI needs a restart to apply the changes.\n"
+"Do you want to Restart the GUI now?"
+msgstr ""
+"GUI behöver startas om för att verkställa ändringarna.\n"
+"Vill du starta om GUI nu?"
+
+msgid "Help"
+msgstr "Hjälp"
+
+msgid "Information"
+msgstr "Information"
+
+msgid "Initial PWM"
+msgstr "Grund PWM"
+
+msgid "Initial Voltage"
+msgstr "Grund spänning"
+
+msgid "Logging path"
+msgstr "Sökväg för logg"
+
+#, python-format
+msgid "Logging-Path: %s"
+msgstr "Loggväg: %s"
+
+#, python-format
+msgid "Max Fan %d rpm at PWM=255 (%s)"
+msgstr "Max fläkt %d rpm vid PWM=255 (%s)"
+
+#, python-format
+msgid "Max Fan %d rpm at PWM=255 and VLT=255 (%s)"
+msgstr "Max fläkt %d rpm vid PWM=255 och VLT=255 (%s)"
+
+#, python-format
+msgid "Max Fan %d rpm at VLT=255 (%s)"
+msgstr "Max fläkt %d rpm vid VLT=255 (%s)"
+
+#, python-format
+msgid "Min Fan Start %d rpm at PWM=%d"
+msgstr "Min fläktstart %d rpm vid PWM=%d"
+
+#, python-format
+msgid "Min Fan Start %d rpm at VLT=%d"
+msgstr "Min fläktstart %d rpm vid VLT=%d"
+
+#, python-format
+msgid "Min Fan Start %d rpm at VLT=%d and PWM=0"
+msgstr "Min fläktstart %d rpm vid VLT=%d och PWM=0"
+
+#, python-format
+msgid "Min Fan Stop %d rpm at PWM=%d (%s)"
+msgstr "Min fläktstopp %d rpm vid PWM=%d (%s)"
+
+#, python-format
+msgid "Min Fan Stop %d rpm at VLT=%d (%s)"
+msgstr "Min fläktstopp %d rpm vid VLT=%d (%s)"
+
+#, python-format
+msgid "Min Fan Stop %d rpm at VLT=%d and PWM=0 (%s)"
+msgstr "Min fläktstopp %d rpm vid VLT=%d och PWM=0 (%s)"
+
+msgid "Number of WebIF-Log-Entries"
+msgstr "Antalet WebIF-logghändelser"
+
+#, python-format
+msgid "PID Ctl Err %03.2f %%"
+msgstr ""
+
+#, python-format
+msgid "PWM  %03d"
+msgstr "PWM  %03d"
+
+msgid "Restart GUI now?"
+msgstr "Starta om GUI nu?"
+
+msgid "Save"
+msgstr "Spara"
+
+msgid "Sensors"
+msgstr "Sensorer"
+
+msgid "Show Fan Speed as"
+msgstr "Visa fläkthastighet som"
+
+msgid "Show Monitor in Extension-Menu"
+msgstr "Visa monitor i utökningsmenyn"
+
+msgid "Show Plugin in Extension-Menu"
+msgstr "Visa plugin i utökningsmenyn"
+
+msgid "Speed"
+msgstr "Hastighet"
+
+msgid "Static temp C"
+msgstr "Statisk temp C"
+
+#, python-format
+msgid "Target rpm  %4d"
+msgstr "Mål rpm  %4d"
+
+msgid "Temperature"
+msgstr "Temperatur"
+
+#, python-format
+msgid "Temperature C  %4.1f"
+msgstr "Temperatur C  %4.1f"
+
+msgid "Voltage"
+msgstr "Spänning"
+
+#, python-format
+msgid "Voltage  %03d"
+msgstr "Spänning  %03d"
+
+msgid "active"
+msgstr "Aktiv"
+
+msgid "auto"
+msgstr "Auto"
+
+msgid "below Tunerslot 4"
+msgstr "Under tunerplats 4"
+
+#, python-format
+msgid "currentRPM:%d targetRPM:%d Temp:%4.1f"
+msgstr "aktuelltRPM:%d målRPM:%d Temp:%4.1f"
+
+msgid "disabled"
+msgstr "Avaktiverad"
+
+msgid "display Info"
+msgstr "Display info"
+
+msgid "do nothing"
+msgstr "Gör inget"
+
+msgid "increases overheating protection to (C)"
+msgstr "Ökar överhettningsskyddet till (C)"
+
+msgid "left near Card-Slot"
+msgstr "Till vänster nära kortplatsen"
+
+msgid "left near Front-CI"
+msgstr "Till vänster nära främre-CI"
+
+msgid "left of the Battery"
+msgstr "Till vänster om batteriet"
+
+msgid "max Speed rpm"
+msgstr "Max hastighet rpm"
+
+msgid "min Speed rpm"
+msgstr "Min hastighet rpm"
+
+msgid "near XILINX Spartan"
+msgstr "Nära XILINX Spartan"
+
+msgid "never"
+msgstr "Aldrig"
+
+msgid "no"
+msgstr "Nej"
+
+msgid "not active"
+msgstr "Inte aktiv"
+
+msgid "over Security Card"
+msgstr "Över säkerhetskortet"
+
+msgid "please set fan type (3Pin or 4Pin)"
+msgstr ""
+
+msgid "please wait (until 3min)..."
+msgstr "Var snäll och vänta (tills 3min)..."
+
+msgid "press Info for HDD-Temp"
+msgstr "Tryck info för HDD-Temperatur"
+
+msgid "read HDD-Temperature in HDD-Standby-Mode"
+msgstr "Läs HDD-Temperaturen i HDD-viloläge"
+
+msgid "readme.txt"
+msgstr "Läs mig.txt"
+
+msgid "setup Fancontol inStandby mode"
+msgstr ""
+
+msgid "turn off"
+msgstr "Stäng av"
+
+msgid "turn on"
+msgstr "Slå på"
+
+msgid "under the Fan"
+msgstr "Under fläkten"
+
+msgid "under the WLAN"
+msgstr "Under WLAN platsen"
+
+msgid "yes"
+msgstr "Ja"
+
+msgid "yes, Except for Recording or HDD"
+msgstr "Ja, förutom för inspelning eller HDD"

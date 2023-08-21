@@ -1,0 +1,6 @@
+Package: enigma2-plugin-extensions-valixdcontrol
+Version: 1.0
+Description: Vali-XD skins Control
+Maintainer: OpenPLi team <forum@openpli.org>
+Homepage: www.openpli.org
+Depends: enigma2 (>> 2.6git20091201)

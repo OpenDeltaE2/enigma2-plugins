@@ -1,0 +1,115 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LogoManager\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-11 10:58+0200\n"
+"PO-Revision-Date: 2015-12-02 18:54+0200\n"
+"Last-Translator: Dimitrij <Dima-73@inbox.lv>\n"
+"Language-Team: Dimitrij PLi\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Generator: Poedit 1.8.4\n"
+
+msgid "Add default bootlogo to folder logos"
+msgstr "Добавить дефолтное ботолого в папку лого"
+
+msgid "Add default radio to folder logos"
+msgstr "Добавить дефолтное радио в папку лого"
+
+msgid "CF Drive"
+msgstr "CF накопитель"
+
+msgid "Cancel"
+msgstr "Отмена"
+
+msgid "Directory to scan for logos"
+msgstr "Директория сканирования для лого"
+
+msgid "Disable backdrop"
+msgstr "Отключить фон"
+
+msgid "Disable reboot"
+msgstr "Отключить перезагрузку"
+
+msgid "Disable switch off"
+msgstr "Отключить выключение"
+
+msgid "Harddisk"
+msgstr "Жесткий диск"
+
+msgid "Install selected logo as..."
+msgstr "Установить выбранное лого как..."
+
+msgid "Logo Manager"
+msgstr "Лого менеджер"
+
+msgid "Logo manager setup"
+msgstr "Настройки лого менджера"
+
+msgid "None"
+msgstr "Ничего"
+
+#, python-format
+msgid "Not found directory '%s'!"
+msgstr "Не найдена директория '%s'!"
+
+msgid "OK"
+msgstr "ОК"
+
+msgid "Open configuration"
+msgstr "Открыть настройки"
+
+msgid "Please select a option:"
+msgstr "Пожалуйста, выберите действие:"
+
+#, python-format
+msgid "Really remove current logo of %s?"
+msgstr "Действительно удалить текущее лого из %s?"
+
+msgid "Remove current logo"
+msgstr "Удалить текущее лого"
+
+msgid "Reset all logos to default"
+msgstr "Сброс все лого по дефолту"
+
+msgid "Reset bootlogo to default"
+msgstr "Сброс ботолого по дефолту"
+
+msgid "Reset radio to default"
+msgstr "Сброс радио по дефолту"
+
+msgid "Select target for logo:"
+msgstr "Выберите цель для лого:"
+
+msgid "Show active logos"
+msgstr "Показать активные лого"
+
+msgid "Show available logos"
+msgstr "Показать доступные лого"
+
+msgid "USB Drive"
+msgstr "USB накопитель"
+
+msgid "backdrop"
+msgstr "фон"
+
+msgid "bootlogo"
+msgstr "ботолого"
+
+msgid "manage logos to display at boottime"
+msgstr "менеджер показа лого в энигма2"
+
+msgid "radio"
+msgstr "радио"
+
+msgid "reboot"
+msgstr "перезагрузка"
+
+msgid "switch off"
+msgstr "выключение"
+
+msgid "view bootlogo/mvi"
+msgstr "просмотр ботлого/mvi"

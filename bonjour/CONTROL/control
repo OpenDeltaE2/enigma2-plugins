@@ -1,0 +1,6 @@
+Package: enigma2-plugin-extensions-bonjour
+Version: 0.1
+Description: Bonjour/avahi-daemon management for your Dreambox
+Maintainer: OpenPLi team <forum@openpli.org>
+Homepage: http://www.openpli.org
+Depends: enigma2, avahi-daemon

@@ -1,0 +1,96 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ShowClock\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-11 10:58+0200\n"
+"PO-Revision-Date: 2015-05-18 18:49+0100\n"
+"Last-Translator: Pr2 <dummy@dummy.com>\n"
+"Language-Team: OpenPLi\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Cancel"
+msgstr "Annuler"
+
+msgid "Clock show timeout"
+msgstr "Expiration Show Clock"
+
+msgid "Description"
+msgstr "Description"
+
+msgid "Extensions menu"
+msgstr "Menu extensions"
+
+msgid "Help"
+msgstr "Aide"
+
+msgid ""
+"Modify the settings to match your preferences. To change the clock position, select \"Move clock\" and relocate using the direction keys. Press OK to store current position and return to the setup menu or EXIT to cancel the moving.\n"
+"\n"
+"Push key \"Exit long\" to show the clock while watching TV. Clock will disappear after the specified timeout or by pushing key \"Exit long\" again.\n"
+"\n"
+"If GP3 is installed, weekday shows up in selected language, otherwise always in english."
+msgstr ""
+"Modifiez les paramètres en fonction de vos préférences. Pour changer la position de l'horloge, choisir \"Déplacer l'horloge\" et déplacez là en utilisant les flèches. Appuyez sur OK pour conserver la nouvelle position et retourner dans le menu ou EXIT pour annuler le déplacement.\n"
+"\n"
+"Appuyez sur la touche \"EXIT long\" pour afficher l'horloge tout en regardant la TV.  L'horloge disparaitra après la période d'expiration ou en appuyant sur la touche \"EXIT long\" à nouveau.\n"
+"\n"
+"Fin"
+
+msgid "Move clock"
+msgstr "Déplacer l'horloge"
+
+msgid "Name"
+msgstr "Nom"
+
+msgid "OK"
+msgstr "OK"
+
+msgid ""
+"Please use direction keys to move the clock.\n"
+"\n"
+"Press OK to store current position and return to the setup menu or EXIT to cancel the moving."
+msgstr ""
+"Utilisez les flèches pour déplacer l'horloge.\n"
+"\n"
+"Appuyez sur OK pour sauvegarder la position et revenir au menu de configuration ou EXIT pour annuler le déplacement."
+
+msgid "Plugin menu"
+msgstr "Menu plugin"
+
+msgid "Push \"Exit\" long to show/hide clock"
+msgstr "Appui long sur \"EXIT\" pour afficher/cacher l'horloge"
+
+msgid "Show Clock Setup"
+msgstr "Configuration Show Clock"
+
+msgid "Show Clock setup"
+msgstr "Configuration Show Clock"
+
+msgid "Show in"
+msgstr "Afficher dans"
+
+msgid "Specify how long (seconds) the clock shall be shown before it disappears. Set to \"0\" to show clock until hidden manually."
+msgstr "Spécifie combien de temps (secondes) l'horloge doit être affichée avant de disparaître. Définir \"0\" pour afficher l'horloge jusqu'à ce qu'on la ferme manuellement."
+
+msgid "Specify plugin description to be used in menu (needs GUI restart)."
+msgstr "Spécifie la description du plugin à afficher dans le menu (nécessite un redémarrage de l'IGU)."
+
+msgid "Specify plugin name to be used in menu (needs GUI restart)."
+msgstr "Spécifie le nom du plugin a utliser dans le menu (nécessite un redémarrage de l'IGU)."
+
+msgid "Specify whether plugin shall show up in plugin menu or extensions menu (needs GUI restart)"
+msgstr "Spécifie si le plugin doit être affiché dans le menu plugin ou extensions (nécessite un redémarrage de l'IGU)"
+
+msgid "Ver."
+msgstr "Ver."

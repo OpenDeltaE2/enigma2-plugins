@@ -1,0 +1,83 @@
+# --- PLEASE EDIT THE LINES BELOW CORRECTLY ---
+# SOME DESCRIPTIVE TITLE.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+msgid ""
+msgstr ""
+"Project-Id-Version: MovieTagger\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-11 12:34+0200\n"
+"PO-Revision-Date: 2016-06-25 08:20+0300\n"
+"Last-Translator: Vytenis P. <vyteniui@gmail.com>\n"
+"Language-Team: Vytenis P. <vyteniui@gmail.com>\n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"Language-Code: en\n"
+"Language-Name: English\n"
+"Preferred-Encodings: utf-8 latin1\n"
+"Domain: /Users/fk/Desktop/PluginSort/locale/de/LC_MESSAGES\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-SearchPath-0: ../src\n"
+
+msgid "Add Tag"
+msgstr "Pridėti žymą"
+
+msgid "Add new Tag"
+msgstr "Pridėti naują žymą"
+
+msgid "Assigned Tags"
+msgstr "Paskirtos žymos"
+
+msgid "Can't write movietags, because no meta-file found!"
+msgstr "Negalima įrašyti filmo žymų, nes nėra meta failo!"
+
+msgid "Clear all Tags"
+msgstr "Išvalyti visas žymas"
+
+msgid ""
+"Clear all Tags?\n"
+"\n"
+"This will delete ALL tags in ALL recodings!\n"
+"Are you sure?"
+msgstr ""
+"Išvalyti visas žymas?\n"
+"\n"
+"Bus panaikintos VISOS žymos VISUOSE įrašuose!\n"
+"Jūs tikrai to norite?"
+
+msgid "Enter the new Tag"
+msgstr "Įrašykite naują žymą"
+
+msgid "Movie Tagger"
+msgstr "'Filmų žymeklis'"
+
+msgid "Movie Tagger..."
+msgstr "Filmų žymeklis..."
+
+msgid "Predefined Tag"
+msgstr "Numatyta žyma"
+
+msgid "Remove Tag"
+msgstr "Šalinti žymą"
+
+msgid "Specified Tags"
+msgstr "Nurodytos žymos"
+
+msgid "Toggle List"
+msgstr "Perjungti sąrašą"
+
+msgid "Used Tag"
+msgstr "Naudota žyma"
+
+msgid "User-specific Tag"
+msgstr "Vartotojo žyma"
+
+msgid "Ver."
+msgstr "vers."
+
+msgid "Whitepace will be replaced by \"_\""
+msgstr "Tarpai bus pakeisti į \"_\""

@@ -1,0 +1,46 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma2-oe-alliance-plugins 1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-11 11:19+0100\n"
+"PO-Revision-Date: 2018-12-08 11:51+0300\n"
+"Last-Translator: mosad - مساعد الجعيد <abo-mishal@hotmail.com>\n"
+"Language-Team: mosad - مساعد الجعيد\n"
+"Language: ar_SA\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 2.2\n"
+
+msgid "Bitrate"
+msgstr "معدل البث"
+
+#, fuzzy
+msgid "Frame rate"
+msgstr "معدل الإطار"
+
+msgid "It seems your receiver is not supported!"
+msgstr ""
+
+msgid "Not found file '/etc/enigma2/streamproxy.conf' !"
+msgstr ""
+
+msgid "Quit"
+msgstr ""
+
+msgid "Set"
+msgstr ""
+
+msgid "Set up default transcoding parameters"
+msgstr ""
+
+msgid "Transcoding Setup"
+msgstr "ضبط بث القنوات عبر الشبكة"
+
+msgid "Video codec"
+msgstr "ترميز الفيديو"
+
+#, fuzzy
+msgid "Video size"
+msgstr "ترميز الفيديو"

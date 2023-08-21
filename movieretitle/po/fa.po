@@ -1,0 +1,67 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: movie retitle Persian Translation\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-11 10:58+0200\n"
+"PO-Revision-Date: 2012-07-25 23:18+0330\n"
+"Last-Translator: mehdi <mehdi_ar_yekta@yahoo.com>\n"
+"Language-Team: Persian Professionals <persianpros@yahoo.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Persian\n"
+"X-Poedit-Country: IRAN, ISLAMIC REPUBLIC OF\n"
+
+msgid "Cancel"
+msgstr "لغو کردن"
+
+msgid "Choose target folder"
+msgstr "انتخاب پوشه مورد نظر"
+
+msgid "Description"
+msgstr "توضیحات"
+
+#, python-format
+msgid "Failed to move the movie %s to %s in the background"
+msgstr ""
+
+msgid "Filename"
+msgstr "نام پوشه"
+
+msgid "Location"
+msgstr "مکان"
+
+msgid "Name and Description Input"
+msgstr "نام و توضیحات وارد شده"
+
+msgid "OK"
+msgstr "OK"
+
+#, python-format
+msgid "Successfully moved the movie %s"
+msgstr " %s فیلم های که با موفقیت منتقل شده اند :"
+
+#, python-format
+msgid ""
+"Target file %s.ts already exist.\n"
+"Do you want to replace it?"
+msgstr ""
+
+#, python-format
+msgid "The movie is moved in the background from %s to %s."
+msgstr ""
+
+msgid "The target directory is not found. The file is not renamed."
+msgstr "پوشه مورد نظز پیدا نشد و فایل تغییر نام نیافته است"
+
+msgid "Title"
+msgstr "عنوان"
+
+msgid "change name..."
+msgstr "تغییر نام"

@@ -1,0 +1,50 @@
+# Italian translations for TranscodingSetup.
+# Signed-off-by: Gringo <openpli@tiscali.it>
+#
+# Updated by: Gringo <openpli@tiscali.it>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: TranscodingSetup\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-11 11:19+0100\n"
+"PO-Revision-Date: 2018-04-17 23:15+0200\n"
+"Last-Translator: Gringo <openpli@tiscali.it>\n"
+"Language-Team: \n"
+"Language: it\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7.1\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Bitrate"
+msgstr "Bitrate"
+
+msgid "Frame rate"
+msgstr "Immagini al secondo"
+
+msgid "It seems your receiver is not supported!"
+msgstr "Questo ricevitore non è supportato!"
+
+msgid "Not found file '/etc/enigma2/streamproxy.conf' !"
+msgstr "File '/etc/enigma2/streamproxy.conf' non trovato!"
+
+msgid "Quit"
+msgstr "Chiudere"
+
+msgid "Set"
+msgstr "Impostare"
+
+msgid "Set up default transcoding parameters"
+msgstr "Impostare i parametri predefiniti di transcoding"
+
+msgid "Transcoding Setup"
+msgstr "Transcoding"
+
+msgid "Video codec"
+msgstr "Codifica video"
+
+msgid "Video size"
+msgstr "Risoluzione video"

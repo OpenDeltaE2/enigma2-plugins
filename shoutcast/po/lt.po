@@ -1,0 +1,277 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: shoutcast\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-11 12:34+0200\n"
+"PO-Revision-Date: 2016-12-28 15:19+0200\n"
+"Last-Translator: Vytenis P.\n"
+"Language-Team: Vytenis P. <vyteniui@gmail.com>\n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#, python-format
+msgid ""
+"%s\n"
+"Press OK to try again..."
+msgstr ""
+"%s\n"
+"Kad pabandyti dar kartą, spauskite 'OK'..."
+
+#, python-format
+msgid ""
+"%s\n"
+"Press green-button to try again..."
+msgstr ""
+"%s\n"
+"Spauskite 'ŽALIĄ', kad pabandyti dar kartą ..."
+
+msgid ">= 128 kbps"
+msgstr ">= 128 kbps"
+
+msgid ">= 192 kbps"
+msgstr ">= 192 kbps"
+
+msgid ">= 256 kbps"
+msgstr ">= 256 kbps"
+
+msgid ">= 64 kbps"
+msgstr ">= 64 kbps"
+
+msgid "Activate Picture in Picture"
+msgstr "Įjungti vaizdą vaizde (PiP)"
+
+msgid "Add current playing stream to favorite"
+msgstr "Įtraukti šią transliaciją į mėgstamiausias"
+
+msgid "Add current selected genre to favorite"
+msgstr "Įtraukti pasirinktą žanrą į mėgstamiausius"
+
+msgid "Add current selected station to favorite"
+msgstr "Įtraukti pasirinktą stotį į mėgstamiausias"
+
+msgid "Add sequence number to output file"
+msgstr "Į išvesties failą pridėti numeraciją"
+
+msgid "All"
+msgstr "Visi"
+
+#, python-format
+msgid "Audio: %s"
+msgstr "Garsas: %s"
+
+#, python-format
+msgid "Bit rate: %s kbps"
+msgstr "Bitų dažnis: %s kbps"
+
+msgid "Cancel"
+msgstr "Atšaukti"
+
+msgid "Choose action:"
+msgstr "Pasirinkite veiksmą:"
+
+msgid "Config"
+msgstr "Nustatymas"
+
+msgid "Coverheight:"
+msgstr "Viršelio aukštis:"
+
+msgid "Coverwidth:"
+msgstr "Viršelio plotis:"
+
+msgid "Create a directory for each stream"
+msgstr "Sukurti katalogą kiekvienam srautui"
+
+msgid "Disable Picture in Picture"
+msgstr "Išjungti vaizdą vaizde (PiP)"
+
+msgid "Do you really want to stop the recording?"
+msgstr "Ar tikrai norite nutraukti įrašymą?"
+
+msgid "Enter in minutes (0 means unlimited)"
+msgstr "Įveskite minutėmis (0 = neribotas)"
+
+msgid "Enter new name for favorite item"
+msgstr "Įveskite naujo mėgstamiausio pavadinimą"
+
+msgid "Enter text to search for"
+msgstr "Įrašykite ieškomą tekstą"
+
+#, python-format
+msgid "Error create directory %s!"
+msgstr "Sukurti katalogo %s nepavyko!"
+
+msgid "Error downloading cover..."
+msgstr "Klaida, parsisiunčiant viršelį..."
+
+msgid "Favorite list"
+msgstr "Mėgstamiausių sąrašas"
+
+msgid "Favorites"
+msgstr "Mėgstamiausi"
+
+msgid "First play streaming!"
+msgstr "Groti transliuojamą pirmiausiai!"
+
+msgid "Genres"
+msgstr "Žanrai"
+
+#, python-format
+msgid "Getting %s"
+msgstr "Įkeliama %s"
+
+#, python-format
+msgid "Getting SHOUTcast genre list for %s..."
+msgstr "Įkeliamas SHOUTcast žanrų sąrašas %s..."
+
+msgid "Getting SHOUTcast genre list..."
+msgstr "Įkeliamas SHOUTcast žanrų sąrašas..."
+
+#, python-format
+msgid ""
+"Getting streaming data from\n"
+"%s"
+msgstr ""
+"Transliacijos duomenys įkeliami iš\n"
+" %s"
+
+msgid ""
+"Got 0 genres. Could be a network problem.\n"
+"Please try again..."
+msgstr ""
+"Įkelta 0 žanrų. Tikriausiai, tinklo problemos.\n"
+"Pabandykite dar kartą..."
+
+msgid "Hide"
+msgstr "Slėpti"
+
+msgid "Invalid Location"
+msgstr "Neteisinga vieta"
+
+msgid "Menu PiP"
+msgstr "PiP meniu"
+
+msgid "Move Picture in Picture"
+msgstr "Perkelti vaizdą vaizde (PiP)"
+
+msgid "No streaming data found..."
+msgstr "Transliuojamų duomenų nerasta..."
+
+msgid "OK"
+msgstr "Gerai"
+
+msgid "Off"
+msgstr "Išjungta"
+
+msgid "Only running streamings can be recorded!"
+msgstr "Įrašyti galima tik vykstančias transliacijas!"
+
+msgid "Record"
+msgstr "Įrašas"
+
+msgid "Recording length"
+msgstr "Įrašo ilgis"
+
+msgid "Recording location:"
+msgstr "Įrašo vieta:"
+
+msgid "Recording stream station"
+msgstr "Įrašomo srauto stotis"
+
+msgid "Reload station list:"
+msgstr "Stočių sąrašą įkelti iš naujo:"
+
+msgid "Rip to single file, name is timestamped"
+msgstr "Kopijuoti į vieną failą. Pavadinimas - iš datos"
+
+msgid "SHOUTcast genre list"
+msgstr "SHOUTcast žanrų sąrašas"
+
+msgid "SHOUTcast setup"
+msgstr "SHOUTcast sąranka"
+
+#, python-format
+msgid "SHOUTcast station list for %s"
+msgstr "SHOUTcast %s stočių sąrašas"
+
+msgid "Search"
+msgstr "Paieška"
+
+#, python-format
+msgid "Searching SHOUTcast for %s..."
+msgstr "SHOUTcast ieškoma %s..."
+
+msgid "Select record path for streamripper"
+msgstr "Pasirinkite kelią srauto kopijos įrašui"
+
+msgid "Show cover:"
+msgstr "Rodyti viršelį:"
+
+msgid "Show in extension menu:"
+msgstr "Rodyti meniu tarp plėtinių:"
+
+#, python-format
+msgid "Station: %s"
+msgstr "Stotis: %s"
+
+msgid "Stations"
+msgstr "Stotys"
+
+msgid "Stop record"
+msgstr "Nutraukti įrašymą"
+
+msgid "Stream stopped playing, playback of stream stopped!"
+msgstr "Transliacija nustojo, transliacijos atkūrimas nutrauktas!"
+
+msgid "Streaming rate:"
+msgstr "Srauto dažnis:"
+
+#, python-format
+msgid "Title: %s"
+msgstr "Pavadinimas: %s"
+
+msgid "Title: n/a"
+msgstr "Pavadinimas: N/D"
+
+msgid "Zap focus to Picture in Picture"
+msgstr "Pakeisti tarpusavy vaizdus vaizde"
+
+msgid "Zap focus to main screen"
+msgstr "Perjungti į pagrindinį ekraną"
+
+msgid "every five minutes"
+msgstr "kas 5 min."
+
+msgid "every minute"
+msgstr "kas minutę"
+
+msgid "every three minutes"
+msgstr "kas 3 min."
+
+#, python-format
+msgid "genre %s"
+msgstr "žanras %s"
+
+msgid "listen to shoutcast internet-radio"
+msgstr "klausytis SHOUTcast interneto radijo"
+
+msgid "remove current selected favorite"
+msgstr "pašalinti pasirinktą iš mėgstamiausių"
+
+msgid "rename current selected favorite"
+msgstr "pervadinti pasirinktą mėgstamiausią"
+
+#, python-format
+msgid "search-criteria %s"
+msgstr "paieškos kriterijus %s"
+
+msgid "streamripper not installed!"
+msgstr "neįdiegtas srauto kopijuoklis!"

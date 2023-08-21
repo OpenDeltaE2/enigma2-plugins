@@ -1,0 +1,55 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: MediaDownloader\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-11 10:58+0200\n"
+"PO-Revision-Date: 2016-10-02 00:08+0300\n"
+"Last-Translator: Dimitrij <Dima-73@inbox.lv>\n"
+"Language: ru\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.9\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+#, python-format
+msgid "%d kb/s"
+msgstr "%d кб/с"
+
+msgid "?? kb/s"
+msgstr "?? кб/с"
+
+msgid "Do you want to try to open the downloaded file?"
+msgstr "Вы хотите попытаться открыть скачанный файл?"
+
+msgid "Download..."
+msgstr "Скачать..."
+
+msgid "Downloading..."
+msgstr "Скачивание..."
+
+#, python-format
+msgid "ETA %d:%02d min"
+msgstr "ETA %d:%02d мин"
+
+msgid "ETA ??:?? h"
+msgstr "ETA ??:?? ч"
+
+#, python-format
+msgid "Error while downloading file %s"
+msgstr "Ошибка при скачивании файла %s"
+
+msgid "No suitable Viewer found!"
+msgstr "Нет подходящего для просмотра!"
+
+msgid "Where to save?"
+msgstr "Где сохранить?"
+
+msgid "Which file do you want to download?"
+msgstr "Какой файл Вы хотите скачать?"

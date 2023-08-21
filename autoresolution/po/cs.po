@@ -1,0 +1,216 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Automatic Screen Resolution V. 0.1.0\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-11 11:18+0100\n"
+"PO-Revision-Date: \n"
+"Last-Translator: ims <ims21@users.sourceforge.net>\n"
+"Language-Team: msi\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: _(\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Czech\n"
+"X-Poedit-Country: CZECH REPUBLIC\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-SearchPath-0: ../src\n"
+
+msgid "Alternative resolution when native not supported"
+msgstr ""
+
+msgid "Ask before changing videomode"
+msgstr ""
+
+msgid "Auto frame rate (refresh need 'multi/auto')"
+msgstr ""
+
+msgid "Autoresolution"
+msgstr "Automatické rozlišení"
+
+#, python-format
+msgid ""
+"Autoresolution Plugin Testmode:\n"
+"Is %s OK?"
+msgstr ""
+"Testovací režim pluginu automatického rozlišení:\n"
+"je %s vpořádku?"
+
+msgid "Autoresolution Switch"
+msgstr "Přepínání automatického rozlišení"
+
+msgid "Autoresolution is not working in Scart/DVI-PC Mode"
+msgstr "Automatické rozlišení nepracuje v Scart/DVI-PC módu"
+
+msgid "Autoresolution videomode setup"
+msgstr "Nastavení videomódu automatického rozlišení"
+
+msgid "Cancel"
+msgstr "Zrušit"
+
+#, python-format
+msgid ""
+"Changing framerate for current service?\n"
+"Current framerate: %s\n"
+"New framerate: %s\n"
+msgstr ""
+
+msgid "Deinterlacer mode for interlaced content"
+msgstr "Režim odstranění prokládání prokládaného obsahu"
+
+msgid "Deinterlacer mode for progressive content"
+msgstr "Režim odstranění prokládání progresivního obsahu"
+
+msgid "Delay x seconds after service started"
+msgstr "Zpoždění v sekundách po přepnutí kanálu"
+
+msgid "Enable 1080p24 Mode"
+msgstr "Povolit 1080p24 režim"
+
+msgid "Enable 1080p25 Mode"
+msgstr "Povolit 1080p25 režim"
+
+msgid "Enable 1080p30 Mode"
+msgstr "Povolit 1080p30 režim"
+
+#, fuzzy
+msgid "Enable 2160p24 Mode"
+msgstr "Povolit 720p24 režim"
+
+#, fuzzy
+msgid "Enable 2160p25 Mode"
+msgstr "Povolit 1080p25 režim"
+
+#, fuzzy
+msgid "Enable 2160p30 Mode"
+msgstr "Povolit 1080p30 režim"
+
+msgid "Enable 720p24 Mode"
+msgstr "Povolit 720p24 režim"
+
+#, fuzzy
+msgid "Enable 720p50 Mode"
+msgstr "Povolit 720p24 režim"
+
+msgid "Enable Autoresolution"
+msgstr "Povolit automatické rozlišení"
+
+msgid "Exit"
+msgstr ""
+
+#, fuzzy
+msgid "FHD 50/60HZ Progressive Mode"
+msgstr "SD 30/60Hz progresivní režim"
+
+msgid "Force set progressive for stream/video content"
+msgstr ""
+
+msgid "HD Interlace Mode"
+msgstr "HD prokládaný režim"
+
+msgid "HD Progressive Mode"
+msgstr "HD progresivní režim"
+
+msgid "Lock timeout"
+msgstr ""
+
+msgid "Manual"
+msgstr ""
+
+#, fuzzy
+msgid "Manual resolution"
+msgstr "Povolit automatické rozlišení"
+
+#, fuzzy
+msgid "Manual resolution is not working in Scart/DVI-PC mode!"
+msgstr "Automatické rozlišení nepracuje v Scart/DVI-PC módu"
+
+msgid "Message timeout"
+msgstr ""
+
+msgid "Mode"
+msgstr ""
+
+msgid "OK"
+msgstr "OK"
+
+msgid "Please select a resolution..."
+msgstr ""
+
+msgid "Refresh Rate"
+msgstr "Občerstvovací frekvence"
+
+msgid "Return back without confirmation after 10 sec."
+msgstr ""
+
+msgid "Running in testmode"
+msgstr "Spouštět v testovacím režimu"
+
+msgid "SD 24HZ Progressive mode"
+msgstr "SD 24Hz progresivní režim"
+
+msgid "SD 25/50HZ Interlace Mode"
+msgstr "SD 25/50Hz prokládaný režim"
+
+msgid "SD 25/50HZ Progressive Mode"
+msgstr "SD 25/50Hz progresivní režim"
+
+msgid "SD 30/60HZ Interlace Mode"
+msgstr "SD 30/60Hz prokládaný režim"
+
+msgid "SD 30/60HZ Progressive Mode"
+msgstr "SD 30/60Hz progresivní režim"
+
+msgid "Separate colorimetry for HDR (set 'auto' HDMI Colorimetry)"
+msgstr ""
+
+msgid "Show 'Manual resolution' in extensions menu"
+msgstr ""
+
+msgid "Show info screen"
+msgstr "Zobrazovat info obrazovku"
+
+msgid "Smart HDR type (set 'auto' HDMI HDR type)"
+msgstr ""
+
+msgid "This resolution is OK?"
+msgstr ""
+
+#, fuzzy
+msgid "UHD Interlace Mode"
+msgstr "HD prokládaný režim"
+
+#, fuzzy
+msgid "UHD Progressive Mode"
+msgstr "HD progresivní režim"
+
+msgid "Use 60HZ instead 30HZ"
+msgstr ""
+
+msgid "Video: "
+msgstr ""
+
+#, python-format
+msgid "Videocontent: %sx%s%s %sHZ"
+msgstr ""
+
+#, python-format
+msgid "Videomode: %s"
+msgstr ""
+
+#, python-format
+msgid "Videomode: %s %s %s"
+msgstr ""
+
+msgid "default"
+msgstr "standardní"
+
+msgid "no"
+msgstr ""
+
+msgid "second"
+msgstr "s"
+
+msgid "seconds"
+msgstr "s"

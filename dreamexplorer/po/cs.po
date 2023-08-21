@@ -1,0 +1,409 @@
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ims\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-11 10:58+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: ims <ims21@users.sourceforge.net>\n"
+"Language-Team: PLi <ims21@users.sourceforge.net>\n"
+"Language: cs_CZ\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=n==1 ? 0 : n%10>=2 && n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2;\n"
+
+msgid ""
+"\n"
+"\n"
+"The Editor-Funktions are beta (not full tested) !!!"
+msgstr ""
+"\n"
+"\n"
+"Funkce editoru jsou v beta verzi (nebylo plně otestováno) !!!"
+
+msgid ""
+"\n"
+"\n"
+"You do it at your own risk!"
+msgstr ""
+"\n"
+"\n"
+"Děláte to na vlastní risk!"
+
+msgid ""
+"\n"
+"The author are NOT RESPONSIBLE\n"
+"for DATA LOST OR DISORDERS !!!"
+msgstr ""
+"\n"
+"Autor není zodpovědný\n"
+"za ztrátu dat nebo poškození !!!"
+
+msgid ""
+"\n"
+"have been CHANGED! Do you want to save it?\n"
+"\n"
+"WARNING!"
+msgstr ""
+"\n"
+"Bylo ZMĚNĚNO! Chcete uložit?\n"
+"\n"
+"POZOR!"
+
+msgid ""
+"\n"
+"to:"
+msgstr ""
+"\n"
+"do:"
+
+#
+msgid " Media-filter"
+msgstr " multimediální filtr"
+
+#, python-format
+msgid ""
+"%s \n"
+"FAILED!"
+msgstr ""
+"%s \n"
+"SELHALO!"
+
+msgid "ADDLINK"
+msgstr ""
+
+#
+msgid "About"
+msgstr "O přijímači"
+
+#
+msgid "Add directory to Bookmarks"
+msgstr "Přidat adresář do záložek"
+
+msgid "Auto play blu-ray file"
+msgstr ""
+
+msgid "BZ2-package:\\n"
+msgstr "BZ2-balíček:\\n"
+
+#
+#, fuzzy
+msgid "Bookmarks"
+msgstr "Záložky"
+
+msgid "Bootlogo-package:\\n"
+msgstr "Bootlogo-balíček:\\n"
+
+msgid "Box: "
+msgstr "Přijímač: "
+
+msgid "COPY"
+msgstr ""
+
+#
+msgid "Cancel"
+msgstr "Zavřít"
+
+#
+msgid "Create new directory"
+msgstr "Založit adresář"
+
+#
+msgid "Create new directory in..."
+msgstr "Založit adresář v..."
+
+msgid "Create new file"
+msgstr "Založit soubor"
+
+msgid "Create new file in..."
+msgstr "Založit soubor v..."
+
+msgid "Create softlink..."
+msgstr "Vytvořit softlink..."
+
+msgid "DELLINK"
+msgstr ""
+
+msgid "Delete"
+msgstr ""
+
+#
+msgid "Directory name error !"
+msgstr "Chyba v názvu adresáře!"
+
+#
+msgid "Disable"
+msgstr "Zakázat"
+
+msgid "Disassemble to bytecode..."
+msgstr "Disassemble na bytecode..."
+
+#
+msgid "Do you realy want to DELETE:\n"
+msgstr "Opravdu chcete ODSTRANIT:\n"
+
+#
+msgid "Do you want to execute?\\n"
+msgstr "Chcete provést?\\n?"
+
+msgid "Do you want to set\n"
+msgstr "Chcete nastavit\n"
+
+msgid "Dream Explorer..."
+msgstr ""
+
+msgid "Dream-Explorer"
+msgstr ""
+
+msgid "Dream-Explorer - DELETE DIRECTORY..."
+msgstr "Dream-Explorer - ODSTRANIT ADRESÁŘ..."
+
+msgid "Dream-Explorer - DELETE file..."
+msgstr "Dream-Explorer - ODSTRANIT soubor..."
+
+msgid "Dream-Explorer : Disassemble..."
+msgstr ""
+
+msgid "Dream-Explorer : Install..."
+msgstr "Dream-Explorer : Instalovat..."
+
+msgid "Dream-Explorer..."
+msgstr ""
+
+msgid ""
+"Dreambox-Explorer\n"
+"coded 2010 by Vali\n"
+"\n"
+"Support & Help on\n"
+"www.dreambox-tools.info"
+msgstr ""
+
+#
+msgid "Edit line "
+msgstr "Upravit řádek "
+
+#
+msgid "Enable"
+msgstr "Povolit"
+
+msgid "Error by reading bookmarks !!!"
+msgstr "Chyba při čtení záložek !!!"
+
+msgid "Error by writing bookmarks !!!"
+msgstr "Chyba při zápisu záložek !!!"
+
+#
+msgid "Error..."
+msgstr "Chyba..."
+
+msgid "Explore your box"
+msgstr "Průzkumník Vašeho boxu"
+
+msgid "File name error !"
+msgstr "Chyba v názvu souboru!"
+
+msgid "File-Explorer"
+msgstr "Průzkumník souborů"
+
+msgid "GZ-package:\\n"
+msgstr "GZ-balíček:\\n"
+
+msgid "Incompatible MerlinMusicPlayer version!"
+msgstr "Nekompatibilní verze MerlinMusicPlayer!"
+
+#
+msgid "Info..."
+msgstr "Informace..."
+
+#
+msgid "Input"
+msgstr "Zadání"
+
+#
+msgid "Install new bootlogo..."
+msgstr "Instalovat nové bootlogo..."
+
+#
+msgid "Install this package"
+msgstr "Instalovat tento balíček"
+
+#
+msgid "List of Storage Devices"
+msgstr "Seznam záznamových zařízení"
+
+msgid "MOVE"
+msgstr ""
+
+#, fuzzy
+msgid "Make a softlink"
+msgstr "Vytvořit softlink..."
+
+msgid "Make a softlink..."
+msgstr "Vytvořit softlink..."
+
+msgid "Move/Copy"
+msgstr ""
+
+#
+msgid "My Bookmarks"
+msgstr "Záložky"
+
+msgid "No more picture-files."
+msgstr "Nejsou již zádné obrázky."
+
+msgid "No more playable files."
+msgstr "Nejsou již žádné přehratelné soubory."
+
+msgid "OPKG-package:\\n"
+msgstr "OPKG-balíček:\\n"
+
+#
+msgid "Options:\n"
+msgstr "Možnosti:\n"
+
+msgid "Pack my bootlogo"
+msgstr "Zabalit moje bootlogo"
+
+#
+msgid "Parent Directory"
+msgstr "Rodičovský adresář"
+
+#
+msgid "Picture-Explorer"
+msgstr "Přehrávač obrázků"
+
+msgid "Picture-Player not available!"
+msgstr "Přehrávač obrázků není dostupný!"
+
+#
+msgid "Preview all pictures"
+msgstr "Prohlédnout všechny obrázky"
+
+msgid "Pyc-Script:\\n"
+msgstr ""
+
+#
+msgid "Remove directory from Bookmarks"
+msgstr "Odstranit adresář ze záložek"
+
+#
+#, fuzzy
+msgid "Rename"
+msgstr "Přejmenovat soubor..."
+
+#
+msgid "Rename directory..."
+msgstr "Přejmenovat adresář..."
+
+#
+msgid "Rename file..."
+msgstr "Přejmenovat soubor..."
+
+#, python-format
+msgid ""
+"Rename: %s \n"
+"FAILED!"
+msgstr ""
+"Přejmenovat: %s \n"
+"SELHALO!"
+
+msgid "Running processes: "
+msgstr "Běžící procesy: "
+
+#
+msgid "Select Copy/Move location..."
+msgstr "Zvolte umístění pro Copy /Move..."
+
+msgid "Set archive mode (644)"
+msgstr "Nastavit archivní mód (644)"
+
+msgid "Set executable mode (755)"
+msgstr "Nastavit spouštěcí mód (755)"
+
+msgid "Set first the Softlink name ..."
+msgstr "Nejprve nastavte název Softlinku..."
+
+msgid "Set name"
+msgstr ""
+
+#
+msgid "Set start directory"
+msgstr "Nastavit výchozí adresář"
+
+msgid "Softlink name error !"
+msgstr "Chyba v názvu Softlinku!"
+
+#
+msgid "Sort by date (bouquet-)"
+msgstr "Třídit podle stáří (bouquet-)"
+
+msgid "Sort by name (bouquet+)"
+msgstr "Třídit podle názvu (bouquet+)"
+
+#
+msgid "Start execution"
+msgstr "Spustit"
+
+#
+msgid "This line is not editable!"
+msgstr "Tato řádka nejde upravit!"
+
+msgid "Turn off the media-filter first."
+msgstr "Nejdříve vypněte multimediální filtr."
+
+msgid "View this shell-script"
+msgstr "Prohlédnout tento shell-script"
+
+msgid "WARNING! they doing now COPY or MOVE\n"
+msgstr "POZOR! Právě se Kopíruje/Přemísťuje\n"
+
+msgid "WARNING! they make now a softlink from\n"
+msgstr "POZOR! Vytváří se softlink z\n"
+
+msgid "Write the new softlink name here:"
+msgstr "Zapište název nového softlinku:"
+
+msgid "[All files] "
+msgstr "[všechny soubory] "
+
+#
+msgid "[Media files] "
+msgstr "[multimediální soubory] "
+
+msgid "[sort by Date] "
+msgstr "[podle stáří] "
+
+msgid "[sort by Name] "
+msgstr "[podle názvu] "
+
+msgid "last-mod "
+msgstr ""
+
+#
+msgid "loading... "
+msgstr "nahrávání... "
+
+#
+msgid "mode "
+msgstr "mód "
+
+msgid "mvi-Explorer"
+msgstr ""
+
+msgid "old:  "
+msgstr "starý: "
+
+#
+msgid "read error"
+msgstr "chyba při čtení"
+
+msgid "ready..."
+msgstr "připraven..."
+
+msgid "size "
+msgstr "velikost "
+
+#
+msgid "wait..."
+msgstr "čekejte..."

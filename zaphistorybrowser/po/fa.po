@@ -1,0 +1,56 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: zap history browser Persian Translation\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2021-04-16 16:27+0430\n"
+"PO-Revision-Date: 2012-07-26 00:35+0330\n"
+"Last-Translator: mehdi <mehdi_ar_yekta@yahoo.com>\n"
+"Language-Team: Persian Professionals <persianpros@yahoo.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-Language: Persian\n"
+"X-Poedit-Country: IRAN, ISLAMIC REPUBLIC OF\n"
+"X-Poedit-SearchPath-0: /home/aliabdul/dream/enigma2/enigma2-plugins/zaphistorybrowser/src\n"
+
+msgid "Cancel"
+msgstr ""
+
+msgid "Clear"
+msgstr "شفاف"
+
+msgid "Config"
+msgstr "پیکربندی"
+
+msgid "Delete"
+msgstr "حذف کردن"
+
+msgid "Enable zap history:"
+msgstr "فعال سازی پیشنه جابجایی"
+
+msgid "Maximum zap history entries:"
+msgstr "بیشترین ورودی های پیشینه جابجایی"
+
+msgid "OK"
+msgstr ""
+
+msgid "Zap & Close"
+msgstr "جابجایی و بستن"
+
+msgid "Zap-History Browser"
+msgstr "مرورگر پیشینه جابجایی"
+
+msgid "Zap-History Configurator"
+msgstr "پیکربندی پیشینه جابجایی"
+
+msgid "disabled"
+msgstr "غیر فعال شده"
+
+msgid "disabled at parental lock"
+msgstr "قفل والدین غیر فعال است"
+
+msgid "enabled"
+msgstr "فعال شده"

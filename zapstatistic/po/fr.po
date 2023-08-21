@@ -1,0 +1,83 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: ZapStatistic\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-11 10:58+0200\n"
+"PO-Revision-Date: 2015-05-04 21:31+0100\n"
+"Last-Translator: Pr2 <dummy@dummy.com>\n"
+"Language-Team: OpenPLi\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.7.6\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Close plugin"
+msgstr "Fermer plugin"
+
+msgid "Delete"
+msgstr "Effacer"
+
+msgid "Delete all entries"
+msgstr "Effacer toutes les entrées"
+
+msgid "Delete entry"
+msgstr "Effacer entrée"
+
+msgid "Durations"
+msgstr "Durées"
+
+msgid "Play entry"
+msgstr "Jouer entrée"
+
+msgid "Please choose a function..."
+msgstr "Veuillez choisir une fonction..."
+
+msgid "Show combined duration window"
+msgstr "Afficher la fenêtre de durée combinée"
+
+msgid "Show duration window"
+msgstr "Afficher la fenêtre de durée"
+
+msgid "Shows the watched services with some statistic"
+msgstr "Affiche les services regardés avec quelques statistiques"
+
+msgid "Sort (date+)"
+msgstr "Trier (date+)"
+
+msgid "Sort (date-)"
+msgstr "Trier (date-)"
+
+msgid "Sort (duration+)"
+msgstr "Trier (durée+)"
+
+msgid "Sort (duration-)"
+msgstr "Trier (durée-)"
+
+msgid "Sort (name+)"
+msgstr "Trier (nom+)"
+
+msgid "Sort (name-)"
+msgstr "Trier (nom-)"
+
+msgid "Sort by date (ascending)"
+msgstr "Trier par date (croissant)"
+
+msgid "Sort by date (descending)"
+msgstr "Trier par date (décroissant)"
+
+msgid "Sort by name (ascending)"
+msgstr "Trier par nom (croissant)"
+
+msgid "Sort by name (descending)"
+msgstr "Trier par nom (décroissant)"
+
+msgid "Zap Statistic"
+msgstr "Statistiques de zap"

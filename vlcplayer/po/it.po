@@ -1,0 +1,285 @@
+# Signed-off-by: Dario Croci <spaeleus@croci.org>
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma2 - vlcplayer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-11 10:58+0200\n"
+"PO-Revision-Date: 2009-05-31 02:27+0100\n"
+"Last-Translator: Spaeleus <spaeleus@croci.org>\n"
+"Language-Team: www.linsat.net <spaeleus@croci.org>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-Language: Italian\n"
+"X-Poedit-Country: ITALY\n"
+"X-Poedit-SourceCharset: iso-8859-15\n"
+"X-Poedit-Basepath: /home/dario/Plugins/vlcplayer\n"
+"X-Poedit-SearchPath-0: /home/dario/Plugins/vlcplayer\n"
+
+msgid "1 minute"
+msgstr ""
+
+msgid "10 minutes"
+msgstr ""
+
+msgid "15 minutes"
+msgstr ""
+
+msgid "20 minutes"
+msgstr ""
+
+msgid "3 minutes"
+msgstr ""
+
+msgid "30 minutes"
+msgstr ""
+
+msgid "5 minutes"
+msgstr ""
+
+msgid "A video streaming solution based on VLC"
+msgstr "Una soluzione di streaming video su VLC"
+
+#, fuzzy
+msgid "Audio"
+msgstr "Codec audio"
+
+msgid "Audio Bitrate"
+msgstr "Bitrate audio"
+
+msgid "Audio Channels"
+msgstr "Canali audio"
+
+msgid "Audio Codec"
+msgstr "Codec audio"
+
+msgid "Audio Samplerate"
+msgstr "Campionamento audio"
+
+#, fuzzy
+msgid "Cache Directory"
+msgstr "Cartella video"
+
+msgid "Cancel"
+msgstr "Annullare"
+
+msgid "Choice of minutes to jump"
+msgstr ""
+
+msgid "Choose an action:"
+msgstr ""
+
+msgid "DVD Device (leave empty for default)"
+msgstr "Dispositivo DVD (vuoto -> default)"
+
+msgid "Direct play"
+msgstr ""
+
+#, fuzzy
+msgid "Edit VLC Server"
+msgstr "Mod. server"
+
+msgid "Enter VLC-Server as FQDN or IP-Address"
+msgstr "Server VLC come FQDN o indirizzo IP"
+
+msgid "Enter subtitles as Track or Language"
+msgstr ""
+
+#, python-format
+msgid ""
+"Error loading filelist into server %(server)s:\n"
+"%(error)s"
+msgstr ""
+"Errore caricamento lista file sul server %(server)s:\n"
+"%(error)s"
+
+#, python-format
+msgid ""
+"Error loading playlist %(media)s into server %(server)s:\n"
+"%(error)s"
+msgstr ""
+"Errore caricamento playlist %(media)s sul server %(server)s:\n"
+"%(error)s"
+
+#, python-format
+msgid ""
+"Error loading playlist into server %(server)s:\n"
+"%(error)s"
+msgstr ""
+"Errore caricamento playlist sul server %(server)s:\n"
+"%(error)s"
+
+#, python-format
+msgid ""
+"Error updating filelist from server %(server)s:\n"
+"%(error)s"
+msgstr ""
+"Errore aggiornamento lista file dal server %(server)s:\n"
+"%(error)s"
+
+#, python-format
+msgid ""
+"Error with VLC server:\n"
+"%s"
+msgstr ""
+"Errore server VLC:\n"
+"%s"
+
+msgid "FQDN"
+msgstr ""
+
+msgid "Filelist"
+msgstr "Lista file"
+
+msgid "HTTP Port"
+msgstr "Porta HTTP"
+
+msgid "IP-Address"
+msgstr ""
+
+msgid ""
+"Latest compatible version VLC 2.0.7\n"
+"Setup VLC for PC:\n"
+"Tools -> Preferences -> All -> Interface -> Main Interface -> Select Web\n"
+"Find file c:/Program Files/VideoLAN/VLC/Lua/http/.hosts and insert your box ip (without #).\n"
+"Add shortcut to the startup of the background start VLC 'C:\\Program Files\\VideoLAN\\VLC\\vlc.exe --intf telnet --extraintf http'"
+msgstr ""
+
+msgid "List of known profiles. Note: key info - help"
+msgstr ""
+
+msgid "Movie Directory"
+msgstr "Cartella video"
+
+msgid "No more files in this directory"
+msgstr "Nessun altro file nella cartella"
+
+#, python-format
+msgid ""
+"No ping from Server:\n"
+"%s\n"
+"%s"
+msgstr ""
+
+msgid "No previous file in this directory"
+msgstr "Nessun file precedente nella cartella"
+
+msgid ""
+"No valid Enigma-Service to play a VLC-Stream\n"
+"Check your installation and try again!"
+msgstr ""
+"Nessun servizio enigma adatto a riprodurre uno\n"
+"stream VLC! Verificare l'installazione e riprovare."
+
+msgid "OK"
+msgstr "Ok"
+
+#, python-format
+msgid "Overscan Correction [in %(percentsign)s of Video width]"
+msgstr "Correzione Overscan [in %(percentsign)s larghezza Video]"
+
+msgid "Ping IP-Address when open Server"
+msgstr ""
+
+msgid "Playlist"
+msgstr "Playlist"
+
+msgid "Really delete this Server?"
+msgstr "Cancellare il server?"
+
+#, fuzzy
+msgid "Reset default"
+msgstr "Predefiniti"
+
+msgid "Save as .ts and play"
+msgstr ""
+
+#, fuzzy
+msgid "Select VLC-Server profile"
+msgstr "Elenco profili server VLC riconosciuti"
+
+msgid "Select method?"
+msgstr ""
+
+msgid "Server Address"
+msgstr "Indirizzo server"
+
+msgid "Server Profile Name"
+msgstr "Nome profilo server"
+
+msgid "Serverlist"
+msgstr "Elenco server"
+
+#, fuzzy
+msgid "Set as default"
+msgstr "Predefiniti"
+
+msgid "Subtitle overlay"
+msgstr "Sovrapposizione sottotitoli"
+
+#, fuzzy
+msgid "Subtitles"
+msgstr "Sovrapposizione sottotitoli"
+
+msgid "Transcode MPEG/DVD Audio"
+msgstr "Transcodifica audio MPEG/DVD"
+
+msgid "Transcode MPEG/DVD Video"
+msgstr "Transcodifica video MPEG/DVD"
+
+msgid "Use saving to Cache Directory"
+msgstr ""
+
+msgid "VLC < 2.x"
+msgstr ""
+
+msgid "VLC Media List"
+msgstr ""
+
+msgid "VLC Video Player"
+msgstr ""
+
+msgid "Video Bitrate"
+msgstr "Bitrate video"
+
+msgid "Video Codec"
+msgstr "Codec video"
+
+msgid "Video Norm"
+msgstr "Standard video"
+
+msgid "Yellow subtitles"
+msgstr ""
+
+msgid "add server"
+msgstr "Agg. server"
+
+msgid "delete server"
+msgstr "Canc. server"
+
+msgid "edit server"
+msgstr "Mod. server"
+
+msgid "filter off"
+msgstr "Filtro Off"
+
+msgid "filter on"
+msgstr "Filtro On"
+
+msgid "languages"
+msgstr ""
+
+msgid "play DVD"
+msgstr "DVD"
+
+msgid "refresh"
+msgstr "Ricaricare"
+
+msgid "set default"
+msgstr "Predefiniti"
+
+msgid "tracks"
+msgstr ""

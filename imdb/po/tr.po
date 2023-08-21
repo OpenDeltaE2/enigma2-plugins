@@ -1,0 +1,244 @@
+# Copyright (C) 2009 THE enigma'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the enigma package.
+# Automatically generated, 2009.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma2 IMDb Plugin Turkish locale\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-11 11:18+0100\n"
+"PO-Revision-Date: 2009-09-22 13:17+0200\n"
+"Last-Translator: Zülfikar VEYİSOĞLU <z.veyisoglu@hobiagaci.com>\n"
+"Language-Team: http://hobiagaci.com <z.veyisoglu@hobiagaci.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Turkish\n"
+"X-Poedit-Country: TURKEY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+
+msgid "* = Restart Required"
+msgstr ""
+
+msgid "Ambiguous results"
+msgstr "Muhtemel eşleşen başlıklar"
+
+msgid "Cancel"
+msgstr ""
+
+#, fuzzy
+msgid "Couldn't get event name"
+msgstr "Program adı alınamıyor"
+
+msgid "Details"
+msgstr "Detaylar"
+
+#, fuzzy
+msgid "Downloading Movie Poster..."
+msgstr "%s posteri indiriliyor."
+
+msgid "E"
+msgstr ""
+
+msgid "Enable this to be able to access IMDb search setup from within the plugin browser."
+msgstr ""
+
+msgid "Enable this to be able to access IMDb searches from within the movie list."
+msgstr ""
+
+msgid "Enable this to be able to access IMDb searches from within the plugin browser."
+msgstr ""
+
+msgid "Enter search"
+msgstr ""
+
+msgid "Enter text to search for"
+msgstr ""
+
+msgid "Exit"
+msgstr "Çıkış"
+
+#, fuzzy
+msgid "Exit IMDb search"
+msgstr "IMDb eşleşmesi bulunamadı."
+
+msgid "Extra Info"
+msgstr "Detay bilgi"
+
+msgid "IMDB Exception"
+msgstr ""
+
+msgid "IMDb Details parsed"
+msgstr "IMDb detayları ayrıştırıldı"
+
+msgid "IMDb Download completed"
+msgstr "IMDb indirmesi tamamlandı"
+
+msgid "IMDb Download failed"
+msgstr "IMDb indirmesi tamamlanamadı!"
+
+#, fuzzy
+msgid "IMDb Menu"
+msgstr "IMDb Eklentisi"
+
+msgid "IMDb Plugin"
+msgstr "IMDb Eklentisi"
+
+msgid "IMDb Re-Download completed"
+msgstr "IMDb yeniden indirme tamamlandı"
+
+msgid "IMDb Setup"
+msgstr ""
+
+msgid "IMDb can not get Movie Information to write to .txt file!"
+msgstr ""
+
+msgid "IMDb query failed!"
+msgstr "IMDb sorgusunda hata oluştu."
+
+#, fuzzy
+msgid "IMDb save completed"
+msgstr "IMDb indirmesi tamamlandı"
+
+#, fuzzy
+msgid "IMDb search"
+msgstr "IMDb eşleşmesi bulunamadı."
+
+#, fuzzy
+msgid "IMDb setup"
+msgstr "IMDb Eklentisi"
+
+#, python-format
+msgid "Ignoring invalid imdbId: %s"
+msgstr ""
+
+msgid "Include episodes in the results. Takes effect after the next search of IMDb for a show name."
+msgstr ""
+
+#, python-format
+msgid "Local file does not exist: %s"
+msgstr ""
+
+#, fuzzy
+msgid "Menu"
+msgstr "IMDb Eklentisi"
+
+msgid "No IMDb match."
+msgstr "IMDb eşleşmesi bulunamadı."
+
+#, fuzzy
+msgid "No IMDb match:"
+msgstr "IMDb eşleşmesi bulunamadı."
+
+msgid "No cast list found in the database."
+msgstr "Oyuncu listesi veritabanında bulunamadı."
+
+msgid "No details found."
+msgstr "Detay bilgisi bulunamadı."
+
+msgid "OK"
+msgstr ""
+
+msgid "Page down"
+msgstr ""
+
+msgid "Page up"
+msgstr ""
+
+msgid "Please select the matching entry"
+msgstr "Lütfen aradığınız başlığı seçin"
+
+#, fuzzy, python-format
+msgid "Query IMDb: %s"
+msgstr "%s IMDb'de sorgulanıyor..."
+
+#, python-format
+msgid "Re-Query IMDb: %s..."
+msgstr "%s IMDb'de yeniden sorgulanıyor..."
+
+msgid "S"
+msgstr ""
+
+msgid "Save current Details as .html for offline use"
+msgstr ""
+
+msgid "Save current Details as .txt"
+msgstr ""
+
+msgid "Save current Poster and Details as .txt"
+msgstr ""
+
+#, fuzzy
+msgid "Search for details from the Internet Movie Database"
+msgstr "Film detaylarını imdb.com'dan sorgulayın"
+
+#, fuzzy
+msgid "Settings for Internet Movie Database searches"
+msgstr "Internet Film Veritabanı (imdb.com)"
+
+msgid "Setup"
+msgstr ""
+
+msgid "Show a bigger poster"
+msgstr ""
+
+msgid "Show episode and year information for cast when available. Takes effect after the next fetch of show details."
+msgstr ""
+
+msgid "Show episode and year information in cast list"
+msgstr ""
+
+msgid "Show episodes in title menu"
+msgstr ""
+
+msgid "Show full movie or series name in title menu"
+msgstr ""
+
+msgid "Show in movie list"
+msgstr ""
+
+msgid "Show list of matched movies an series"
+msgstr ""
+
+msgid "Show movie and series basic details"
+msgstr ""
+
+msgid "Show movie and series extra details"
+msgstr ""
+
+msgid "Show movie and series synopsis"
+msgstr ""
+
+msgid "Show search in plugin browser"
+msgstr ""
+
+msgid "Show setup in plugin browser"
+msgstr ""
+
+msgid "Show the whole IMDb title information for a movie or series, including, for example, alternative names and whether it's a series. Takes effect after the next search of IMDb for a show name."
+msgstr ""
+
+msgid "Synopsis"
+msgstr ""
+
+msgid "The Internet Movie Database"
+msgstr "Internet Film Veritabanı (imdb.com)"
+
+msgid "This option allows you add words/phrases for IMDb to ignore when searching. Please separate the words/phrases with commas."
+msgstr ""
+
+msgid "Title Menu"
+msgstr "Filmler"
+
+msgid "Words / phrases to ignore "
+msgstr ""
+
+msgid "connection error"
+msgstr ""
+
+msgid "no user rating yet"
+msgstr "puan verilmemiş"
+
+msgid "timeout"
+msgstr ""

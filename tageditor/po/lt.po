@@ -1,0 +1,76 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: TagEditor\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-11 12:34+0200\n"
+"PO-Revision-Date: 2021-09-15 18:54+0300\n"
+"Last-Translator: Vytenis P. <vyteniui@gmail.com>\n"
+"Language-Team: Vytenis P. <vyteniui@gmail.com>\n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "Add new tag..."
+msgstr "Pridėti naują žymę..."
+
+msgid "Cancel"
+msgstr "Atšaukti"
+
+msgid "Delete all tags..."
+msgstr "Šalinti visas žymes..."
+
+msgid "Delete this tag..."
+msgstr "Šalinti šią žymę..."
+
+msgid "Delete unused tags"
+msgstr "Šalinti nenaudojamas žymes"
+
+msgid ""
+"Do you really want to delete all tags everywhere?\n"
+"(Note that 'Cancel' will not undo this!)"
+msgstr ""
+"Ar tikrai norite iš visur naikinti visas žymes?\n"
+"(Žinokite, kad komanda 'Atšaukti' to jau neatšauks!)"
+
+#, python-format
+msgid ""
+"Do you really want to delete tag \"%s\" everywhere?\n"
+"(Note that 'Cancel' will not undo this!)"
+msgstr ""
+"Ar tikrai norite iš visur naikinti \"%s\" žymę?\n"
+"(Žinokite, kad komanda 'Atšaukti' to jau neatšauks!)"
+
+#. TRANSLATORS: This is the title of the TagEditor main screen
+msgid "Edit Tags"
+msgstr "Redaguoti žymes"
+
+msgid "Load"
+msgstr "Įkelti"
+
+msgid "New"
+msgstr "Naujas"
+
+msgid "OK"
+msgstr "Gerai"
+
+msgid "Please enter the new tag"
+msgstr "Įrašykite naują žymę"
+
+msgid "Rename this tag..."
+msgstr "Pervadinti šią žymę..."
+
+#, python-format
+msgid "Replace tag \"%s\" everywhere with:   (Note that 'Cancel' will not undo this!)"
+msgstr "Visur pakeisti žymes \"%s\" į:   (Žinokite, kad komanda 'Atšaukti' to jau neatšauks!)"
+
+#. TRANSLATORS: this is the string used in the movie context menu for TagEditor
+msgid "edit tags"
+msgstr "redaguoti žymes"

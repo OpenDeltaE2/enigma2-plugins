@@ -1,0 +1,211 @@
+# Copyright (C) 2012 THE enigma2-plugins'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the enigma2-plugins package.
+# Automatically generated, 2012.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: enigma2-AutoResolution\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2022-12-11 11:18+0100\n"
+"PO-Revision-Date: 2021-09-12 11:43+0300\n"
+"Last-Translator: Vytenis P. <vyteniui@gmail.com>\n"
+"Language-Team: Vytenis Pulokas <vytemiui@gmail.com>\n"
+"Language: lt_LT\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid "Alternative resolution when native not supported"
+msgstr "Alternatyvioji raiška, jei nepalaikoma numatytoji"
+
+msgid "Ask before changing videomode"
+msgstr "Klausti, prieš keičiant vaizdo režimą"
+
+msgid "Auto frame rate (refresh need 'multi/auto')"
+msgstr "Automatinis kadrų dažnis (skleistinė t.b. 'multi/auto')"
+
+msgid "Autoresolution"
+msgstr "Automatinė raiška"
+
+#, python-format
+msgid ""
+"Autoresolution Plugin Testmode:\n"
+"Is %s OK?"
+msgstr ""
+"Automatinės raiškos įskiepio bandomasis režimas:\n"
+"Ar %s tinka?"
+
+msgid "Autoresolution Switch"
+msgstr "Automatinės raiškos perjungimas"
+
+msgid "Autoresolution is not working in Scart/DVI-PC Mode"
+msgstr "Automatinė raiška neveikia SCART/DVI-PC režimuose"
+
+msgid "Autoresolution videomode setup"
+msgstr "Automatinės raiškos vaizdo režimo sąranka"
+
+msgid "Cancel"
+msgstr "Atšaukti"
+
+#, python-format
+msgid ""
+"Changing framerate for current service?\n"
+"Current framerate: %s\n"
+"New framerate: %s\n"
+msgstr ""
+"Keisti šio kanalo kadrų dažnį?\n"
+"Dabartinis kadrų dažnis: %s\n"
+"Naujasis kadrų dažnis: %s\n"
+
+msgid "Deinterlacer mode for interlaced content"
+msgstr "Dvieilio pynimo turinio išpynimas"
+
+msgid "Deinterlacer mode for progressive content"
+msgstr "Pilnaeilio turinio išpynimas"
+
+msgid "Delay x seconds after service started"
+msgstr "Atvėrus kanalą, uždelsti X sekundžių"
+
+msgid "Enable 1080p24 Mode"
+msgstr "Įjungti 1080p24 režimą"
+
+msgid "Enable 1080p25 Mode"
+msgstr "Įjungti 1080p25 režimą"
+
+msgid "Enable 1080p30 Mode"
+msgstr "Įjungti 1080p30 režimą"
+
+msgid "Enable 2160p24 Mode"
+msgstr "Įjungti 2160p24 režimą"
+
+msgid "Enable 2160p25 Mode"
+msgstr "Įjungti 2160p25 režimą"
+
+msgid "Enable 2160p30 Mode"
+msgstr "Įjungti 2160p30 režimą"
+
+msgid "Enable 720p24 Mode"
+msgstr "Įjungti 720p24 režimą"
+
+msgid "Enable 720p50 Mode"
+msgstr "Įjungti 720p50 režimą"
+
+msgid "Enable Autoresolution"
+msgstr "Įjungti automatinę raišką"
+
+msgid "Exit"
+msgstr "Uždaryti"
+
+msgid "FHD 50/60HZ Progressive Mode"
+msgstr "FHD 50/60HZ pilnaeilis režimas"
+
+msgid "Force set progressive for stream/video content"
+msgstr "Transliacijai/video priverstinai jungti pilnaeilį režimą"
+
+msgid "HD Interlace Mode"
+msgstr "HD dvieilio pynimo (interlace) režimas"
+
+msgid "HD Progressive Mode"
+msgstr "HD pilnaeilis (progressive) režimas"
+
+msgid "Lock timeout"
+msgstr "Fiksavimo laikas"
+
+msgid "Manual"
+msgstr "Rankinis"
+
+msgid "Manual resolution"
+msgstr "Rankinė raiška"
+
+msgid "Manual resolution is not working in Scart/DVI-PC mode!"
+msgstr "Rankinė raiška neveikia SCART/DVI-PC režimuose!"
+
+msgid "Message timeout"
+msgstr "Pranešimą rodyti (sek.):"
+
+msgid "Mode"
+msgstr "Režimas"
+
+msgid "OK"
+msgstr "Gerai"
+
+msgid "Please select a resolution..."
+msgstr "Pasirinkite rezoliuciją..."
+
+msgid "Refresh Rate"
+msgstr "Skleistinės dažnis"
+
+msgid "Return back without confirmation after 10 sec."
+msgstr "Po 10 sek. atkursime ankstesnę be patvirtinimo"
+
+msgid "Running in testmode"
+msgstr "Veikia bandomuoju režimu"
+
+msgid "SD 24HZ Progressive mode"
+msgstr "SD 30/60HZ pilnaeilis režimas"
+
+msgid "SD 25/50HZ Interlace Mode"
+msgstr "SD 25/50HZ dvieilio pynimo režimas"
+
+msgid "SD 25/50HZ Progressive Mode"
+msgstr "SD 25/50HZ pilnaeilis režimas"
+
+msgid "SD 30/60HZ Interlace Mode"
+msgstr "SD 30/60HZ dvieilio pynimo režimas"
+
+msgid "SD 30/60HZ Progressive Mode"
+msgstr "SD 30/60HZ pilnaeilis režimas"
+
+msgid "Separate colorimetry for HDR (set 'auto' HDMI Colorimetry)"
+msgstr "Atskirti HDR (plataus dinaminio diapazono) (nustatykite 'auto' HDMI kolorimetrijai)"
+
+msgid "Show 'Manual resolution' in extensions menu"
+msgstr "Meniu plėtiniuose rodyti \"Rankinė raiška\""
+
+msgid "Show info screen"
+msgstr "Rodyti informacinį pranešimą"
+
+msgid "Smart HDR type (set 'auto' HDMI HDR type)"
+msgstr "Išmanusis HDR (nustatykite 'auto' HDMI HDR tipą)"
+
+msgid "This resolution is OK?"
+msgstr "Ar ši rezoliucija tinkama?"
+
+msgid "UHD Interlace Mode"
+msgstr "UHD dvieilio pynimo režimas"
+
+msgid "UHD Progressive Mode"
+msgstr "UHD pilnaeilis režimas"
+
+msgid "Use 60HZ instead 30HZ"
+msgstr "Vietoje 30Hz naudoti 60Hz"
+
+msgid "Video: "
+msgstr "Vaizdo režimas: "
+
+#, python-format
+msgid "Videocontent: %sx%s%s %sHZ"
+msgstr "Vaizdo turinys: %sx%s%s %sHZ"
+
+#, python-format
+msgid "Videomode: %s"
+msgstr "Vaizdo režimas: %s"
+
+#, python-format
+msgid "Videomode: %s %s %s"
+msgstr "Vaizdo režimas: %s %s %s"
+
+msgid "default"
+msgstr "numatyta"
+
+msgid "no"
+msgstr "ne"
+
+msgid "second"
+msgstr "sekundę"
+
+msgid "seconds"
+msgstr "sek."

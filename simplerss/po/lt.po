@@ -1,0 +1,214 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: SimpleRSS\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-11 12:34+0200\n"
+"PO-Revision-Date: 2021-09-15 18:10+0300\n"
+"Last-Translator: Vytenis P. <vyteniui@gmail.com>\n"
+"Language-Team: Vytenis P. <vyteniui@gmail.com>\n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+#, python-format
+msgid "%d Feed(s) were added to configuration."
+msgstr "Į konfigūraciją įtraukti %d šaltiniai."
+
+#, python-format
+msgid "%d feed(s) added to configuration."
+msgstr "Į konfigūraciją įtraukti %d šaltiniai."
+
+msgid "--- Scanner automount ---"
+msgstr "--- Skenerio automatinis prijungimas ---"
+
+msgid "< Create file any name.rss in USB device >"
+msgstr "< USB įrenginyje sukurkite failą bet koks pavadinimas.rss >"
+
+msgid "< and write feeds link column >"
+msgstr "< ir įrašyti šaltinių nuorodos stulpelį >"
+
+msgid "A simple to use RSS reader"
+msgstr "Naudotis RSS skaitytuvu paprasta"
+
+msgid "Apply"
+msgstr "Pritaikyti"
+
+msgid "Autoupdate"
+msgstr "Automatinis atnaujinimas"
+
+msgid "Cancel"
+msgstr "Atšaukti"
+
+msgid "Close"
+msgstr "Uždaryti"
+
+msgid "Delete"
+msgstr "Šalinti"
+
+msgid "Enclosures"
+msgstr "Priedų"
+
+msgid "Entries"
+msgstr "Įrašai"
+
+#, python-format
+msgid "Entry %s/%s"
+msgstr "Įrašas %s/%s"
+
+msgid "Error while parsing Feed, this usually means there is something wrong with it."
+msgstr "Klaida nuskaitant šaltinių serverį. Tai paprastai reiškia, kad jame kažkas negerai."
+
+msgid "Failed to get subscriptions from Google Reader."
+msgstr "Nepavyko gauti Google Reader prenumeratos."
+
+msgid "Failed to login to Google Reader."
+msgstr "Prie Google Reader prisijungti nepavyko."
+
+msgid "Feed"
+msgstr "Šaltinis"
+
+#, python-format
+msgid "Feed %s/%s"
+msgstr "Šaltinis %s/%s"
+
+msgid "Feed URI"
+msgstr "Šaltinių internetinis adresas"
+
+msgid "Feed is empty."
+msgstr "Šaltiniai tušti."
+
+msgid "Fetch feeds from Google Reader?"
+msgstr "Parsiųsti šaltinius iš Google Reader?"
+
+#, python-format
+msgid "Found %d feed(s)"
+msgstr "Rasta %d šaltinių"
+
+msgid "Found no Enclosure we can display."
+msgstr "Galimų parodyti priedų nerasta."
+
+msgid "Google Password"
+msgstr "Google slaptažodis"
+
+msgid "Google Username"
+msgstr "Google vartotojas"
+
+msgid "Keep running in background"
+msgstr "Leisti ir fone"
+
+msgid "Let's you view current RSS entries"
+msgstr "Leidžia peržiūrėti esamus RSS įrašus"
+
+msgid "New"
+msgstr "Naujas"
+
+msgid "New Items"
+msgstr "Nauji elementai"
+
+msgid "New Items since last Auto-Update"
+msgstr "Nauji elementai nuo paskutinio autoatnaujinimo"
+
+msgid "No such Item."
+msgstr "Tokio elemento nėra."
+
+msgid "Not found new feed(s)."
+msgstr "Naujų šaltinių nerasta."
+
+msgid "Notification"
+msgstr "Pranešimas"
+
+msgid "OK"
+msgstr "Gerai"
+
+msgid "Preview"
+msgstr "Peržiūra"
+
+msgid "RSS Reader"
+msgstr "RSS skaitytuvas"
+
+msgid "RSS-Reader"
+msgstr "RSS skaitytuvas"
+
+#, python-format
+msgid "Read error %s"
+msgstr "Skaitymo klaida %s"
+
+msgid ""
+"Really delete this entry?\n"
+"It cannot be recovered!"
+msgstr ""
+"Tikrai pašalinti šį įrašą?\n"
+"Tai nepataisoma!"
+
+#, python-format
+msgid "Received %d new news item(s)."
+msgstr "Parsiųsta %d naujienų įrašų."
+
+msgid "Scroll speed (ms)"
+msgstr "Slinkimo greitis (ms)"
+
+msgid "Setup"
+msgstr "Sąranka"
+
+msgid "Show in extensions menu"
+msgstr "Rodyti plėtinių naršyklėje"
+
+msgid "Show new Messages as"
+msgstr "Naujus pranešimus rodyti, kaip"
+
+msgid "Simple RSS Reader"
+msgstr "Paprastas RSS skaitytuvas"
+
+msgid "Simple RSS Reader Setup"
+msgstr "RSS skaitytuvo sąranka"
+
+#, python-format
+msgid "Simple RSS Reader: %s"
+msgstr "Paprastas RSS skaitytuvas: %s"
+
+#, python-format
+msgid ""
+"Sorry, this type of feed is unsupported:\n"
+"%s"
+msgstr ""
+"Atleiskite, šis šaltinių tipas netinka:\n"
+"%s"
+
+msgid "Start automatically with Enigma2"
+msgstr "Paleisti su Enigma2 automatiškai"
+
+msgid "Subscribe Newsfeed..."
+msgstr "Prenumeruoti naujienas..."
+
+msgid "Ticker"
+msgstr "Simbolis"
+
+msgid "Update Feed"
+msgstr "Atnaujinti šaltinius"
+
+msgid "Update Interval (min)"
+msgstr "Atnaujinimo intervalas (min.)"
+
+msgid ""
+"Update is being done in Background.\n"
+"Contents will automatically be updated when it's done."
+msgstr ""
+"Fone vyksta atnaujinimas.\n"
+"Po to turinys atsinaujins automatiškai."
+
+msgid "View RSS..."
+msgstr "Peržiūrėti RSS..."
+
+msgid "What to do?"
+msgstr "Ką daryti?"
+
+msgid "none"
+msgstr "jokio"

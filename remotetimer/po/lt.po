@@ -1,0 +1,118 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: remoteTimer\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-11 12:34+0200\n"
+"PO-Revision-Date: 2016-12-28 14:45+0200\n"
+"Last-Translator: Vytenis P.\n"
+"Language-Team: Vytenis P. <vyteniui@gmail.com>\n"
+"Language: lt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+
+msgid "Cancel"
+msgstr "Atšaukti"
+
+msgid "Cleanup"
+msgstr "Išvalyti"
+
+msgid "Create timers on remote reciever enigma2"
+msgstr "Sukurti laikmačius nutolusiame enigma2 imtuve"
+
+msgid "Delete"
+msgstr "Ištrinti"
+
+#, python-format
+msgid ""
+"Do you really want to delete the timer \n"
+"%s ?"
+msgstr ""
+"Ar tikrai norite pašalinti laikmatį\n"
+"%s ?"
+
+#, python-format
+msgid ""
+"ERROR - Set timer on remote reciever via WebIf:\n"
+"%s"
+msgstr ""
+"KLAIDA nustatant laikmatį nutolusiame imtuve per WebIf:\n"
+"%s"
+
+msgid "ERROR XML parse"
+msgstr "KLAIDA, apdorojant XML"
+
+msgid "Hostname"
+msgstr "Vardas tinkle"
+
+msgid "Network IP"
+msgstr "tinklo IP"
+
+msgid "No entry in XML from the web server"
+msgstr "Nėra XML įrašų iš interneto serverio"
+
+msgid "Password"
+msgstr "Slaptažodis"
+
+msgid "Please select a subservice to record..."
+msgstr "Pasirinkite subkanalą įrašymui..."
+
+msgid "Remote Timer"
+msgstr "Nuotolinis laikmatis"
+
+msgid "Remote-Timer digest"
+msgstr "Nuotolinio laikmačio sąvadas"
+
+msgid "Remote-Timer settings"
+msgstr "Nuotolinio laikmačio nustatymai"
+
+msgid "Save"
+msgstr "Išsaugoti"
+
+#, python-format
+msgid ""
+"Set timer on remote reciever via WebIf:\n"
+"%s"
+msgstr ""
+"Nustattti laikmatį nutolusiame imtuve per WebIf:\n"
+"%s"
+
+msgid "Settings"
+msgstr "Nuostatos"
+
+msgid "Show in extensions menu"
+msgstr "Rodyti meniu tarp plėtinių"
+
+msgid "Timer Edit - remote as default"
+msgstr "Redaguoti laikmatį - numatytasis nuotolinis"
+
+msgid "Use remote directory"
+msgstr "Naudoti nuotolinį katalogą"
+
+msgid "Username"
+msgstr "Vartotojas"
+
+msgid "WebIf port"
+msgstr "WebIF prievadas"
+
+msgid "added"
+msgstr "Pridėta"
+
+msgid "error parsing incoming data..."
+msgstr "Gaunamų duomenų apdorojimo klaida..."
+
+msgid "fetching remote data..."
+msgstr "Parsiunčiami duomenys..."
+
+msgid "finish fetching remote data..."
+msgstr "Duomenų parsiuntimas baigtas."
+
+msgid "not configured yet. please do so in the settings."
+msgstr "Dar nesukonfigūruotas, atlikite tai nustatymuose."

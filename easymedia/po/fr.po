@@ -1,0 +1,202 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: EasyMedia\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-11 10:58+0200\n"
+"PO-Revision-Date: 2018-05-11 21:58+0200\n"
+"Last-Translator: Pr2 <dummy@dummy.com>\n"
+"Language-Team: OpenPLi\n"
+"Language: fr\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.7\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+
+msgid " added to EasyMedia"
+msgstr " ajouté à EasyMedia"
+
+msgid " removed from EasyMedia"
+msgstr " enlevé de EasyMedia"
+
+#, python-format
+msgid "%s (%s)\n"
+msgstr "%s (%s)\n"
+
+msgid "Add/remove plugin"
+msgstr "Ajouter/enlever plugin"
+
+msgid "Bookmarks"
+msgstr "Favoris"
+
+msgid "DVD Player"
+msgstr "Lecteur DVD"
+
+msgid "DVD player:"
+msgstr "Lecteur DVD:"
+
+msgid "DVDPlayer Plugin is not installed!"
+msgstr "DVDPlayer pas installé!"
+
+msgid "Disabled"
+msgstr "Désactivé"
+
+msgid "DreamExplorer"
+msgstr "DreamExplorer"
+
+msgid "EasyMedia settings..."
+msgstr "Paramètres EasyMedia..."
+
+msgid "Enabled"
+msgstr "Activé"
+
+msgid "Filebrowser"
+msgstr "Filebrowser"
+
+msgid "Files"
+msgstr "Fichiers"
+
+msgid "Files browser:"
+msgstr "Gestionnaire de fichier:"
+
+msgid "MediaPlayer"
+msgstr "MediaPlayer"
+
+msgid "Merlin iDream is not installed!"
+msgstr "Merlin iDream n'est pas installé!"
+
+msgid "MerlinMusicPlayer"
+msgstr "MerlinMusicPlayer"
+
+msgid "Movies"
+msgstr "Films"
+
+msgid "Music"
+msgstr "Musique"
+
+msgid "Music player:"
+msgstr "Lecteur de musique:"
+
+msgid "MyTube Player"
+msgstr "MyTube Player"
+
+msgid "MyTube Plugin is not installed!"
+msgstr "MyTube n'est pas installé!"
+
+msgid "MyVideo"
+msgstr "MyVideo"
+
+msgid "MyVideo Player is not installed!"
+msgstr "MyVideo Player n'est pas installé!"
+
+msgid "MyVideo player:"
+msgstr "Lecteur MyVideo:"
+
+msgid "NetRadio player:"
+msgstr "Lecteur Radio Internet:"
+
+msgid "No File-Manager installed!"
+msgstr "Pas de gestionnaire de fichier installé!"
+
+msgid "No Music-Player installed!"
+msgstr "Pas de lecteur musique installé!"
+
+msgid "Not easy way to start EasyMedia"
+msgstr "Pas de manière simple pour lancer EasyMedia"
+
+msgid "Nothing"
+msgstr "Rien"
+
+msgid "Picture-player is not installed!"
+msgstr "Pas de lecteur de photos installé!"
+
+msgid "PicturePlayer:"
+msgstr "Lecteur de photos:"
+
+msgid "Pictures"
+msgstr "Photos"
+
+msgid "Radio"
+msgstr "Radio"
+
+msgid "Radio-mode"
+msgstr "mode-Radio"
+
+msgid "SHOUTcast"
+msgstr "SHOUTcast"
+
+msgid "SHOUTcast Plugin is not installed!"
+msgstr "SHOUTcast n'est pas installé!"
+
+msgid "Select bookmark..."
+msgstr "Choisir favori..."
+
+msgid "Show Merlin-iDream:"
+msgstr "Afficher Merlin-iDream:"
+
+msgid "Show bookmarks:"
+msgstr "Afficher favoris:"
+
+msgid "Show tv/radio switch:"
+msgstr "Afficher la bascule TV/Radio:"
+
+msgid "Some plugins are not available:\n"
+msgstr "Certains plugins ne sont pas disponible:\n"
+
+msgid "TV-mode"
+msgstr "mode-TV"
+
+msgid "Timer"
+msgstr "Programmation"
+
+msgid "Timer:"
+msgstr "Programmation:"
+
+msgid "TuxCom"
+msgstr "TuxCom"
+
+msgid "Tv/Radio"
+msgstr "TV/Radio"
+
+msgid "VLC Player"
+msgstr "VLC Player"
+
+msgid "VLC Player is not installed!"
+msgstr "VLC Player n'est pas installé!"
+
+msgid "VLC player:"
+msgstr "Lecteur VLC:"
+
+msgid "Video database:"
+msgstr "Base de données vidéo:"
+
+msgid "VideoDB"
+msgstr "BdDVidéo"
+
+msgid "VideoDB is not installed!"
+msgstr "VideoDB n'est pas installé!"
+
+msgid "Weather"
+msgstr "Météo"
+
+msgid "Weather Plugin is not installed!"
+msgstr "Pas de plugin Météo installé!"
+
+msgid "Weather plugin:"
+msgstr "Plugin Météo:"
+
+msgid "YouTube player:"
+msgstr "Lecteur YouTube:"
+
+msgid "ZDFmediathek"
+msgstr "ZDFmediathek"
+
+msgid "ZDFmediathek Plugin is not installed!"
+msgstr "ZDFmediathek n'est pas installé!"
+
+msgid "ZDFmediathek player:"
+msgstr "Lecteur ZDFmediathek:"
+
+msgid "iDream"
+msgstr "iDream"

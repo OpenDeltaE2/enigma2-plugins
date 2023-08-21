@@ -1,0 +1,272 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: vlc player\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2018-05-11 10:58+0200\n"
+"PO-Revision-Date: 2012-07-26 00:56+0330\n"
+"Last-Translator: mehdi <mehdi_ar_yekta@yahoo.com>\n"
+"Language-Team: Persian Professionals <persianpros@yahoo.com>\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Persian\n"
+"X-Poedit-Country: IRAN, ISLAMIC REPUBLIC OF\n"
+
+msgid "1 minute"
+msgstr ""
+
+msgid "10 minutes"
+msgstr ""
+
+msgid "15 minutes"
+msgstr ""
+
+msgid "20 minutes"
+msgstr ""
+
+msgid "3 minutes"
+msgstr ""
+
+msgid "30 minutes"
+msgstr ""
+
+msgid "5 minutes"
+msgstr ""
+
+msgid "A video streaming solution based on VLC"
+msgstr "یک روش نمایش ویدئو با استفاده پلیر وی ال سی"
+
+#, fuzzy
+msgid "Audio"
+msgstr "کدهای صوتی"
+
+msgid "Audio Bitrate"
+msgstr "بیت ریت صوتی"
+
+msgid "Audio Channels"
+msgstr "کانال های صوتی"
+
+msgid "Audio Codec"
+msgstr "کدهای صوتی"
+
+msgid "Audio Samplerate"
+msgstr "نرخ نمونه صوتی"
+
+#, fuzzy
+msgid "Cache Directory"
+msgstr "دایرکتوری فیلم ها"
+
+msgid "Cancel"
+msgstr "لغو کردن"
+
+msgid "Choice of minutes to jump"
+msgstr ""
+
+msgid "Choose an action:"
+msgstr ""
+
+msgid "DVD Device (leave empty for default)"
+msgstr ""
+
+msgid "Direct play"
+msgstr ""
+
+#, fuzzy
+msgid "Edit VLC Server"
+msgstr "ویرایش کردن سرور"
+
+msgid "Enter VLC-Server as FQDN or IP-Address"
+msgstr ""
+
+msgid "Enter subtitles as Track or Language"
+msgstr ""
+
+#, python-format
+msgid ""
+"Error loading filelist into server %(server)s:\n"
+"%(error)s"
+msgstr ""
+
+#, python-format
+msgid ""
+"Error loading playlist %(media)s into server %(server)s:\n"
+"%(error)s"
+msgstr ""
+
+#, python-format
+msgid ""
+"Error loading playlist into server %(server)s:\n"
+"%(error)s"
+msgstr ""
+
+#, python-format
+msgid ""
+"Error updating filelist from server %(server)s:\n"
+"%(error)s"
+msgstr ""
+
+#, python-format
+msgid ""
+"Error with VLC server:\n"
+"%s"
+msgstr ""
+
+msgid "FQDN"
+msgstr ""
+
+msgid "Filelist"
+msgstr "فهرست پوشه ها"
+
+msgid "HTTP Port"
+msgstr ""
+
+msgid "IP-Address"
+msgstr ""
+
+msgid ""
+"Latest compatible version VLC 2.0.7\n"
+"Setup VLC for PC:\n"
+"Tools -> Preferences -> All -> Interface -> Main Interface -> Select Web\n"
+"Find file c:/Program Files/VideoLAN/VLC/Lua/http/.hosts and insert your box ip (without #).\n"
+"Add shortcut to the startup of the background start VLC 'C:\\Program Files\\VideoLAN\\VLC\\vlc.exe --intf telnet --extraintf http'"
+msgstr ""
+
+msgid "List of known profiles. Note: key info - help"
+msgstr ""
+
+msgid "Movie Directory"
+msgstr "دایرکتوری فیلم ها"
+
+msgid "No more files in this directory"
+msgstr "فایل های زیادی در این دایرکتوری نیست"
+
+#, python-format
+msgid ""
+"No ping from Server:\n"
+"%s\n"
+"%s"
+msgstr ""
+
+msgid "No previous file in this directory"
+msgstr "هیچ فایل قبلی در این دایرکتوری نیست"
+
+msgid ""
+"No valid Enigma-Service to play a VLC-Stream\n"
+"Check your installation and try again!"
+msgstr ""
+
+msgid "OK"
+msgstr "مورد تایید است"
+
+#, python-format
+msgid "Overscan Correction [in %(percentsign)s of Video width]"
+msgstr ""
+
+msgid "Ping IP-Address when open Server"
+msgstr ""
+
+msgid "Playlist"
+msgstr "فهرست پخش "
+
+msgid "Really delete this Server?"
+msgstr "واقعا قصد حذف این سرور را دارید ؟"
+
+#, fuzzy
+msgid "Reset default"
+msgstr "تنظیم پیش فرض "
+
+msgid "Save as .ts and play"
+msgstr ""
+
+#, fuzzy
+msgid "Select VLC-Server profile"
+msgstr "فهرست از پزوفایل سرورهای شناخته شده وی ال سی"
+
+msgid "Select method?"
+msgstr ""
+
+msgid "Server Address"
+msgstr "آدرس سرور"
+
+msgid "Server Profile Name"
+msgstr "نام پروفایل سرور"
+
+msgid "Serverlist"
+msgstr "فهرست سرورها "
+
+#, fuzzy
+msgid "Set as default"
+msgstr "تنظیم پیش فرض "
+
+msgid "Subtitle overlay"
+msgstr "پوشش زیرنویس ها"
+
+#, fuzzy
+msgid "Subtitles"
+msgstr "پوشش زیرنویس ها"
+
+msgid "Transcode MPEG/DVD Audio"
+msgstr ""
+
+msgid "Transcode MPEG/DVD Video"
+msgstr ""
+
+msgid "Use saving to Cache Directory"
+msgstr ""
+
+msgid "VLC < 2.x"
+msgstr ""
+
+msgid "VLC Media List"
+msgstr ""
+
+msgid "VLC Video Player"
+msgstr ""
+
+msgid "Video Bitrate"
+msgstr ""
+
+msgid "Video Codec"
+msgstr ""
+
+msgid "Video Norm"
+msgstr ""
+
+msgid "Yellow subtitles"
+msgstr ""
+
+msgid "add server"
+msgstr "اضافه کردن سرور"
+
+msgid "delete server"
+msgstr "حذف کردن سرور"
+
+msgid "edit server"
+msgstr "ویرایش کردن سرور"
+
+msgid "filter off"
+msgstr "خاموش کردن فیلتر"
+
+msgid "filter on"
+msgstr "فعال کردن فیلتر"
+
+msgid "languages"
+msgstr ""
+
+msgid "play DVD"
+msgstr "پخش یک دی وی دی"
+
+msgid "refresh"
+msgstr "بازآوری"
+
+msgid "set default"
+msgstr "تنظیم پیش فرض "
+
+msgid "tracks"
+msgstr ""
